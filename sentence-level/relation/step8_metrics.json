@@ -1,0 +1,335 @@
+{
+  "global_metrics": {
+    "accuracy": 0.7174721189591078,
+    "precision": 0.35912698412698413,
+    "recall": 0.7605042016806722,
+    "f1": 0.48787061994609165,
+    "confusion_matrix": [
+      [
+        784,
+        323
+      ],
+      [
+        57,
+        181
+      ]
+    ]
+  },
+  "per_article": {
+    "6871de7a-47d9-4401-915c-9f75f50c3e9e": {
+      "accuracy": 0.8333333333333334,
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "f1": 0.5882352941176471,
+      "num_sentences": 42
+    },
+    "35501284-f1b2-4c26-bbdd-26bf61952f47": {
+      "accuracy": 0.7894736842105263,
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1": 0.8,
+      "num_sentences": 19
+    },
+    "fc848d52-197e-4f53-a254-03fd7d9c56f6": {
+      "accuracy": 0.5625,
+      "precision": 0.14285714285714285,
+      "recall": 0.5,
+      "f1": 0.2222222222222222,
+      "num_sentences": 16
+    },
+    "f2c16873-7db9-4345-b0af-715564e73a7b": {
+      "accuracy": 0.821917808219178,
+      "precision": 0.2777777777777778,
+      "recall": 1.0,
+      "f1": 0.43478260869565216,
+      "num_sentences": 73
+    },
+    "8eeda8bb-f396-49ed-b993-f0c6ed36715d": {
+      "accuracy": 0.6875,
+      "precision": 0.375,
+      "recall": 1.0,
+      "f1": 0.5454545454545454,
+      "num_sentences": 16
+    },
+    "9495dca7-8ae6-48c3-adf9-eb2df4901f0e": {
+      "accuracy": 0.875,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "num_sentences": 16
+    },
+    "3cee11ac-7cd0-40f3-bbe4-c16ef043b090": {
+      "accuracy": 0.625,
+      "precision": 0.375,
+      "recall": 0.75,
+      "f1": 0.5,
+      "num_sentences": 16
+    },
+    "333aa94a-629a-4025-9af2-40bdc51c5bf1": {
+      "accuracy": 0.9310344827586207,
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1": 0.75,
+      "num_sentences": 29
+    },
+    "f508943e-e091-4924-8c33-c1a3b0215ffd": {
+      "accuracy": 0.7777777777777778,
+      "precision": 0.14285714285714285,
+      "recall": 1.0,
+      "f1": 0.25,
+      "num_sentences": 27
+    },
+    "a1f10f4a-4ea8-43dc-8e15-1094d1f8d7af": {
+      "accuracy": 0.6842105263157895,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "num_sentences": 19
+    },
+    "4099d293-cda6-4ef6-99de-b95fe7e21a10": {
+      "accuracy": 0.6938775510204082,
+      "precision": 0.4375,
+      "recall": 0.5384615384615384,
+      "f1": 0.4827586206896552,
+      "num_sentences": 49
+    },
+    "3db72c86-1db7-48d7-9f89-307e54185b99": {
+      "accuracy": 0.6,
+      "precision": 0.3076923076923077,
+      "recall": 0.6666666666666666,
+      "f1": 0.42105263157894735,
+      "num_sentences": 55
+    },
+    "13075870-5bc4-4080-9e18-8f40760281db": {
+      "accuracy": 0.7619047619047619,
+      "precision": 0.2857142857142857,
+      "recall": 1.0,
+      "f1": 0.4444444444444444,
+      "num_sentences": 21
+    },
+    "0915bc56-9392-4096-99d9-5956d24874cd": {
+      "accuracy": 0.75,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_sentences": 28
+    },
+    "4d51331a-0056-411b-a8e7-effe5f0b33d6": {
+      "accuracy": 0.35294117647058826,
+      "precision": 0.15384615384615385,
+      "recall": 1.0,
+      "f1": 0.26666666666666666,
+      "num_sentences": 17
+    },
+    "034fcbed-493e-472f-9df0-10b94ca95276": {
+      "accuracy": 0.8,
+      "precision": 0.5555555555555556,
+      "recall": 0.7142857142857143,
+      "f1": 0.625,
+      "num_sentences": 30
+    },
+    "e6007e79-3dca-4a8c-a6a2-46d309a721fe": {
+      "accuracy": 0.85,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_sentences": 20
+    },
+    "0acf2cec-34eb-4482-806d-efaf5d8a1501": {
+      "accuracy": 0.6842105263157895,
+      "precision": 0.5833333333333334,
+      "recall": 0.875,
+      "f1": 0.7,
+      "num_sentences": 19
+    },
+    "6e22e887-b988-4c77-b106-68134ba781da": {
+      "accuracy": 0.7631578947368421,
+      "precision": 0.2222222222222222,
+      "recall": 0.5,
+      "f1": 0.3076923076923077,
+      "num_sentences": 38
+    },
+    "17a9d9cb-727d-4173-b829-ceded51002e5": {
+      "accuracy": 0.5652173913043478,
+      "precision": 0.23076923076923078,
+      "recall": 1.0,
+      "f1": 0.375,
+      "num_sentences": 23
+    },
+    "be779b0d-5737-4e7d-9c27-6f39fd63b6db": {
+      "accuracy": 0.6538461538461539,
+      "precision": 0.46153846153846156,
+      "recall": 0.75,
+      "f1": 0.5714285714285714,
+      "num_sentences": 26
+    },
+    "bfb98e01-ba5d-4bef-adb7-01415979a4b8": {
+      "accuracy": 0.7560975609756098,
+      "precision": 0.2,
+      "recall": 0.5,
+      "f1": 0.2857142857142857,
+      "num_sentences": 41
+    },
+    "5c1f90fd-8a1e-49a6-b9e0-0ae395ec6db6": {
+      "accuracy": 0.6896551724137931,
+      "precision": 0.28,
+      "recall": 1.0,
+      "f1": 0.4375,
+      "num_sentences": 58
+    },
+    "61809002-229a-45a6-a258-b18490579bc3": {
+      "accuracy": 0.75,
+      "precision": 0.3333333333333333,
+      "recall": 0.3333333333333333,
+      "f1": 0.3333333333333333,
+      "num_sentences": 16
+    },
+    "42699cb0-e35e-4266-a45b-475412767db9": {
+      "accuracy": 0.8372093023255814,
+      "precision": 0.375,
+      "recall": 0.6,
+      "f1": 0.46153846153846156,
+      "num_sentences": 43
+    },
+    "40501fc8-6f72-4a91-bcb2-e54186b8fd4a": {
+      "accuracy": 0.7352941176470589,
+      "precision": 0.46153846153846156,
+      "recall": 0.75,
+      "f1": 0.5714285714285714,
+      "num_sentences": 34
+    },
+    "5fb52d5e-fe3c-4f16-8ddb-419f198df929": {
+      "accuracy": 0.7222222222222222,
+      "precision": 0.46153846153846156,
+      "recall": 0.6666666666666666,
+      "f1": 0.5454545454545454,
+      "num_sentences": 36
+    },
+    "d2e17368-b2da-4ee4-a7d9-8a5cccdebefd": {
+      "accuracy": 0.8,
+      "precision": 0.45454545454545453,
+      "recall": 1.0,
+      "f1": 0.625,
+      "num_sentences": 30
+    },
+    "ba818730-bd59-4a1c-94ff-58141a581896": {
+      "accuracy": 0.5833333333333334,
+      "precision": 0.20833333333333334,
+      "recall": 0.8333333333333334,
+      "f1": 0.3333333333333333,
+      "num_sentences": 48
+    },
+    "38008490-3272-4f0a-abde-9d82b6df54d7": {
+      "accuracy": 0.7777777777777778,
+      "precision": 0.2,
+      "recall": 1.0,
+      "f1": 0.3333333333333333,
+      "num_sentences": 54
+    },
+    "77d6cf0e-fc7d-4aa3-9f2b-e3f8ecb3dea5": {
+      "accuracy": 0.782608695652174,
+      "precision": 0.16666666666666666,
+      "recall": 1.0,
+      "f1": 0.2857142857142857,
+      "num_sentences": 23
+    },
+    "8f68dc8f-d6db-45b4-977b-3ba2bd56faf6": {
+      "accuracy": 0.48148148148148145,
+      "precision": 0.42105263157894735,
+      "recall": 0.7272727272727273,
+      "f1": 0.5333333333333333,
+      "num_sentences": 27
+    },
+    "3f393d4e-1eb3-4a21-88c0-6897f13d96b7": {
+      "accuracy": 0.5272727272727272,
+      "precision": 0.23529411764705882,
+      "recall": 1.0,
+      "f1": 0.38095238095238093,
+      "num_sentences": 55
+    },
+    "c7c1dccd-747f-4f19-98f1-8e323096efe3": {
+      "accuracy": 0.7,
+      "precision": 0.2727272727272727,
+      "recall": 0.75,
+      "f1": 0.4,
+      "num_sentences": 30
+    },
+    "9e1c1946-d568-4435-a7fe-20df1bbf3618": {
+      "accuracy": 0.7142857142857143,
+      "precision": 0.625,
+      "recall": 0.8333333333333334,
+      "f1": 0.7142857142857143,
+      "num_sentences": 14
+    },
+    "f462327d-7021-486b-a262-a1d2ffc4bc25": {
+      "accuracy": 0.7272727272727273,
+      "precision": 0.4444444444444444,
+      "recall": 0.8,
+      "f1": 0.5714285714285714,
+      "num_sentences": 22
+    },
+    "ae5815f3-c056-4ed0-83b7-9a5a25d86c7b": {
+      "accuracy": 0.85,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714285714285714,
+      "num_sentences": 20
+    },
+    "0692a19b-2db5-446d-adbe-552e73d47b6a": {
+      "accuracy": 0.5,
+      "precision": 0.36363636363636365,
+      "recall": 0.6666666666666666,
+      "f1": 0.47058823529411764,
+      "num_sentences": 18
+    },
+    "8a97c97e-f3b4-416a-a1d2-a749a2bc7ecf": {
+      "accuracy": 0.6111111111111112,
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "f1": 0.5882352941176471,
+      "num_sentences": 18
+    },
+    "7f44175f-2ed4-4e74-8677-f5db8fb0cd02": {
+      "accuracy": 0.8571428571428571,
+      "precision": 0.6666666666666666,
+      "recall": 0.8571428571428571,
+      "f1": 0.75,
+      "num_sentences": 28
+    },
+    "c7f8467e-2dca-4ad7-bb2e-52d01356510c": {
+      "accuracy": 0.75,
+      "precision": 0.42857142857142855,
+      "recall": 1.0,
+      "f1": 0.6,
+      "num_sentences": 16
+    },
+    "80ed11ba-3e7c-444a-ace8-79869c77bc27": {
+      "accuracy": 0.7555555555555555,
+      "precision": 0.42857142857142855,
+      "recall": 0.6666666666666666,
+      "f1": 0.5217391304347826,
+      "num_sentences": 45
+    },
+    "3bc7d2c3-d9b2-43d5-b34b-d36dd0b0ac49": {
+      "accuracy": 0.6551724137931034,
+      "precision": 0.47058823529411764,
+      "recall": 0.8888888888888888,
+      "f1": 0.6153846153846154,
+      "num_sentences": 29
+    },
+    "cb62fdc6-242a-4a95-9f03-44e1a1cd7ba2": {
+      "accuracy": 0.7241379310344828,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "num_sentences": 29
+    },
+    "f004a025-4a04-4f96-9c6e-31418a55e325": {
+      "accuracy": 0.75,
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1": 0.5714285714285714,
+      "num_sentences": 12
+    }
+  }
+}

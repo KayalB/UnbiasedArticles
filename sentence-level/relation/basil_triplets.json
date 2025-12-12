@@ -1,0 +1,1033 @@
+[
+  {
+    "triplet_uuid": "08bb9bee-c167-4c17-9c6d-4a1259231eb7",
+    "left": {
+      "uuid": "1f4cce14-4cf2-42d6-9ac4-9123926ef54e",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "With Abortion in the Spotlight, a Challenge for Romney",
+        "date": "2012-08-21",
+        "url": "http://thecaucus.blogs.nytimes.com/2012/08/21/with-abortion-in-the-spotlight-a-challenge-for-romney/?ref=global-home",
+        "word_count": 685,
+        "main_entities": [
+          "Mitt Romney",
+          "Todd Akin"
+        ],
+        "main_event": "Romney urges Akin to drop out of Senate race"
+      }
+    },
+    "center": {
+      "uuid": "a4389be5-a63c-4f92-bca0-f89c69407a47",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Mitt To Akin: Drop Out",
+        "date": "2012-08-21",
+        "url": "http://www.huffingtonpost.com/2012/08/21/todd-akin-comments_n_1819655.html",
+        "word_count": 382,
+        "main_entities": [
+          "Mitt Romney",
+          "Todd Akin"
+        ],
+        "main_event": "Romney urges Akin to drop out of Senate race"
+      }
+    },
+    "right": {
+      "uuid": "4f4dc5fb-84a8-4cd9-bd3a-451bda7a7b70",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Romney calls on Rep. Akin to drop Senate bid over 'rape' comments",
+        "date": "2012-08-21",
+        "url": "http://www.foxnews.com/politics/2012/08/21/rep-akin-appeals-for-forgiveness-in-new-ad-as-pressure-over-rape-comment-builds/",
+        "word_count": 704,
+        "main_entities": [
+          "Mitt Romney",
+          "Todd Akin"
+        ],
+        "main_event": "Romney urges Akin to drop out of Senate race"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "450755dd-30d3-478b-933e-917be5c384ba",
+    "left": {
+      "uuid": "55126d86-003a-42d7-a3f3-9427c5f8846a",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Chick-fil-A Draws Huge Crowds for Appreciation Day",
+        "date": "2012-08-01",
+        "url": "http://thelede.blogs.nytimes.com/2012/08/01/chick-fil-a-draws-huge-crowds-for-appreciation-day/",
+        "word_count": 489,
+        "main_entities": [
+          "Chick-Fil-A",
+          "GOP leaders"
+        ],
+        "main_event": "GOP reps show support for Chick-Fil-A"
+      }
+    },
+    "center": {
+      "uuid": "bf62784f-65d2-44e8-bdc8-4e42257ae8dd",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Michele Bachmann Chick-Fil-A Visit: GOP Rep Shows Support For Company Amid Controversy",
+        "date": "2012-08-01",
+        "url": "https://www.huffingtonpost.com/entry/michele-bachmann-chick-fil-a_n_1730280",
+        "word_count": 151,
+        "main_entities": [
+          "GOP leaders",
+          "Chick-Fil-A"
+        ],
+        "main_event": "Michele Bachmann and other GOP reps show support for Chick-Fil-A"
+      }
+    },
+    "right": {
+      "uuid": "7117c2b3-85e1-4239-84c5-661475699dc3",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Chick-fil-A Appreciation Day brings out supporters, protesters",
+        "date": "2012-08-01",
+        "url": "http://www.foxnews.com/politics/2012/08/01/chick-fil-appreciation-day-brings-out-supporters-more-protestors",
+        "word_count": 650,
+        "main_entities": [
+          "Chick-Fil-A",
+          "GOP leaders",
+          "protesters"
+        ],
+        "main_event": "GOP reps show support for Chick-Fil-A"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "8dc7ccfe-5cf0-482f-9101-a7c69881da4d",
+    "left": {
+      "uuid": "063a36ea-f163-4a18-a29b-1a8d66c4f0e8",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Romney Reaffirms Opposition to Marriage, or Unions, for Gay Couples",
+        "date": "2012-05-10",
+        "url": "https://www.nytimes.com/2012/05/10/us/politics/romney-reaffirms-opposition-to-marriage-or-similar-for-gay-couples.html",
+        "word_count": 713,
+        "main_entities": [
+          "Mitt Romney",
+          "Barack Obama"
+        ],
+        "main_event": "Romney reaffirms opposition to same sex marriage"
+      }
+    },
+    "center": {
+      "uuid": "d5c8102a-ac43-4c17-ab3b-e84b9dcd5382",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Romney: My 'Preference' Is Marriage Between A Man And A Woman",
+        "date": "2012-05-09",
+        "url": "https://www.huffingtonpost.com/2012/05/09/mitt-romney-same-sex-marriage-man-woman_n_1504177.html",
+        "word_count": 396,
+        "main_entities": [
+          "Mitt Romney",
+          "Barack Obama"
+        ],
+        "main_event": "Romney reaffirms opposition to same sex marriage"
+      }
+    },
+    "right": {
+      "uuid": "eb195642-9702-4a41-8f0d-cf77c2d62f19",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Romney reaffirms belief in marriage as between man, woman",
+        "date": "2012-05-09",
+        "url": "http://www.foxnews.com/politics/2012/05/09/romney-reaffirms-belief-in-marriage-as-between-man-woman/",
+        "word_count": 352,
+        "main_entities": [
+          "Mitt Romney",
+          "Barack Obama"
+        ],
+        "main_event": "Romney reaffirms opposition to same sex marriage"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "b5eefefb-2a33-45de-abe1-f855c94165f4",
+    "left": {
+      "uuid": "3f393d4e-1eb3-4a21-88c0-6897f13d96b7",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Sparks fly as Biden, Ryan face off in feisty vice presidential debate",
+        "date": "2012-10-12",
+        "url": "http://www.foxnews.com/politics/2012/10/11/biden-ryan-face-off-in-high-stakes-vice-presidential-debate-in-kentucky/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+        "word_count": 1027,
+        "main_entities": [
+          "Joe Biden",
+          "Paul Ryan"
+        ],
+        "main_event": "Biden and Ryan debate"
+      }
+    },
+    "center": {
+      "uuid": "70e6078e-6c9a-41e8-a832-e04e0931b31b",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Biden-Ryan Debate: All About Joe",
+        "date": "2012-10-12",
+        "url": "https://www.huffingtonpost.com/2012/10/12/biden-ryan-debate_n_1960034.html",
+        "word_count": 1436,
+        "main_entities": [
+          "Joe Biden",
+          "Paul Ryan"
+        ],
+        "main_event": "Biden and Ryan debate"
+      }
+    },
+    "right": {
+      "uuid": "d9685b3e-e13f-4e69-9e93-3ec14c59e7e0",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Biden Takes Off Gloves in Vice-Presidential Debate",
+        "date": "2012-10-12",
+        "url": "http://www.nytimes.com/2012/10/12/us/politics/biden-takes-off-gloves-in-vice-presidential-debate.html?emc=rss&_r=0",
+        "word_count": 693,
+        "main_entities": [
+          "Joe Biden",
+          "Paul Ryan"
+        ],
+        "main_event": "Biden and Ryan debate"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "1bb79cc1-5d69-4136-a23d-6dbd300cbf25",
+    "left": {
+      "uuid": "3a92b2ca-738a-4aa2-a0cb-d8aee5823a80",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "White House Releases Benghazi Emails",
+        "date": "2013-05-15",
+        "url": "https://www.huffingtonpost.com/2013/05/15/white-house-benghazi-emails_n_3280734.html",
+        "word_count": 1019,
+        "main_entities": [
+          "Victoria Nuland",
+          "State Department officials",
+          "Republican Lawmakers",
+          "Obama administration"
+        ],
+        "main_event": "White House releases e-mails relating to the Benghazi talking points"
+      }
+    },
+    "center": {
+      "uuid": "312676c4-7676-4bc8-a4e6-ed168947ba75",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "E-Mails Show Jostling Over Benghazi \u2018Talking Points\u2019",
+        "date": "2013-05-15",
+        "url": "http://www.nytimes.com/2013/05/16/us/politics/e-mails-show-jostling-over-benghazi-talking-points.html?pagewanted=1&ref=centralintelligenceagency",
+        "word_count": 1209,
+        "main_entities": [
+          "Michael Morell",
+          "Obama's administration",
+          "State Department",
+          "Republican lawmakers"
+        ],
+        "main_event": "E-Mails Show Jostling Over Benghazi \u2018Talking Points\u2019"
+      }
+    },
+    "right": {
+      "uuid": "cb62fdc6-242a-4a95-9f03-44e1a1cd7ba2",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Benghazi emails underscore State Department\u2019s concern over failure to act on warnings",
+        "date": "2013-05-13",
+        "url": "http://www.foxnews.com/politics/2013/05/13/benghazi-emails-underscore-state-departments-concern-over-failure-to-act-on/?intcmp=related",
+        "word_count": 749,
+        "main_entities": [
+          "Hillary Clinton",
+          "State Department officials",
+          "Obama administration"
+        ],
+        "main_event": "White House releases e-mails relating to the Benghazi talking points"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "526cabb7-02a3-4adb-8e90-ec781c40c498",
+    "left": {
+      "uuid": "807cd714-a095-45b6-841c-ca2e76640429",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Obama Poised to Back Comprehensive Plan to Curb Gun Violence",
+        "date": "2013-01-14",
+        "url": "http://www.nytimes.com/2013/01/15/us/politics/biden-meets-with-house-democrats-on-gun-violence-proposals.html",
+        "word_count": 1051,
+        "main_entities": [
+          "Barack Obama",
+          "White House officials and lawmakers"
+        ],
+        "main_event": "Obama willing to use executive orders on guns"
+      }
+    },
+    "center": {
+      "uuid": "2052529f-cc0f-4e4d-9221-2236094f7de6",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Obama Gun Control Proposals Unveiled, Marking Biggest Legislative Effort In A Generation",
+        "date": "2013-01-16",
+        "url": "https://www.huffingtonpost.com/2013/01/16/obama-gun-control-proposals_n_2486919.html",
+        "word_count": 1124,
+        "main_entities": [
+          "Barack Obama"
+        ],
+        "main_event": "President Barack Obama unveiled on Wednesday the most sweeping effort at gun control policy reform in a generation"
+      }
+    },
+    "right": {
+      "uuid": "1c959ea5-04d8-4155-97d2-eb32a5754c16",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Obama urges new restrictions on assault weapons, magazines as part of gun control plan",
+        "date": "2013-01-16",
+        "url": "http://www.foxnews.com/politics/2013/01/16/obama-urges-new-restrictions-on-assault-weapons-magazines-as-part-gun-control/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+        "word_count": 792,
+        "main_entities": [
+          "Barack Obama",
+          "lawmakers"
+        ],
+        "main_event": "Obama urges new restrictions on assault weapons"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "70c744ad-e950-445c-8a7a-0782b0a7d20b",
+    "left": {
+      "uuid": "f6994655-46b7-46bf-81a5-b771922efeec",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Same-Sex Married Couples To Get Federal Tax Recognition Regardless Of State",
+        "date": "2013-08-29",
+        "url": "http://www.huffingtonpost.com/2013/08/29/same-sex-couples-federal-taxes_n_3837444.html",
+        "word_count": 558,
+        "main_entities": [
+          "joint tax rule for homosexual couples"
+        ],
+        "main_event": "Legally married same-sex couples will now be allowed to file federal joint tax returns"
+      }
+    },
+    "center": {
+      "uuid": "8c2e4c5e-ac2b-4728-99bc-4e114c641bde",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "fox",
+        "title": "IRS extends tax benefits to married gay couples",
+        "date": "2013-08-29",
+        "url": "http://www.foxnews.com/politics/2013/08/29/irs-issues-tax-rules-for-married-gay-couples/?test=latestnews",
+        "word_count": 293,
+        "main_entities": [
+          "joint tax rule for homosexual couples"
+        ],
+        "main_event": "Legally married same-sex couples will now be allowed to file federal joint tax returns"
+      }
+    },
+    "right": {
+      "uuid": "f46331f4-1519-4fcf-af35-e0f7a990329c",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Gay Marriages Get Recognition From the I.R.S.",
+        "date": "2013-08-29",
+        "url": "http://www.nytimes.com/2013/08/30/us/politics/irs-to-recognize-all-gay-marriages-regardless-of-state.html?n=Top/News/Health/Diseases,%20Conditions,%20and%20Health%20Topics/Medicare?ref=medicare",
+        "word_count": 928,
+        "main_entities": [
+          "joint tax rule for homosexual couples"
+        ],
+        "main_event": "Legally married same-sex couples will now be allowed to file federal joint tax returns"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "33521e65-12da-4521-b132-7b606243b0e4",
+    "left": {
+      "uuid": "2a087321-f6c5-4ba3-870f-03f18d70e029",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Indictment Expected for Grimm, Staten Island Congressman",
+        "date": "2014-04-25",
+        "url": "https://www.nytimes.com/2014/04/26/nyregion/indictment-expected-for-representative-michael-grimm.html",
+        "word_count": 722,
+        "main_entities": [
+          "Michael Grimm",
+          "Justice Department"
+        ],
+        "main_event": "Federal charges filed against Grimm"
+      }
+    },
+    "center": {
+      "uuid": "75f1b2bf-d46d-4bc4-a917-62488d5bf352",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "GOP Congressman Expected To Be Indicted",
+        "date": "2014-04-25",
+        "url": "https://www.huffingtonpost.com/2014/04/25/michael-grimm-indicted_n_5215385.html",
+        "word_count": 317,
+        "main_entities": [
+          "Michael Grimm",
+          "Justice Department"
+        ],
+        "main_event": "Federal charges filed against Grimm"
+      }
+    },
+    "right": {
+      "uuid": "6d996e37-445d-47f7-a273-a8a341667d2b",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Federal prosecutors plan to file charges against Rep. Grimm, attorney says",
+        "date": "2014-04-25",
+        "url": "http://www.foxnews.com/politics/2014/04/25/federal-prosecutors-plan-to-file-charges-against-rep-grimm-attorney-says.html?intcmp=trending",
+        "word_count": 441,
+        "main_entities": [
+          "Michael Grimm",
+          "Justice Department"
+        ],
+        "main_event": "Federal charges filed against Grimm"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "58ed2376-35a0-453a-a08e-5cd87e3bdea5",
+    "left": {
+      "uuid": "37cedba7-4b83-4c10-9707-120e759c5e0c",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Jan Brewer Announces Veto Of Arizona Anti-Gay Bill",
+        "date": "2014-02-26",
+        "url": "https://www.huffingtonpost.com/2014/02/26/jan-brewer-vetoes_n_4854003.html?ncid=edlinkushpmg00000313&ec_carp=976186401922298178",
+        "word_count": 285,
+        "main_entities": [
+          "Jan Brewer",
+          "SB 1062 bill"
+        ],
+        "main_event": "Jan Brewer urged to veto gay discrimination bill"
+      }
+    },
+    "center": {
+      "uuid": "698db3fa-240a-4984-b820-fcd797b444c2",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Governor of Arizona Is Pressed to Veto Bill",
+        "date": "2014-02-24",
+        "url": "https://www.nytimes.com/2014/02/25/us/governor-of-arizona-is-pressed-to-veto-bill.html?ref=us",
+        "word_count": 663,
+        "main_entities": [
+          "Jan Brewer",
+          "SB 1062 bill"
+        ],
+        "main_event": "Jan Brewer urged to veto gay discrimination bill"
+      }
+    },
+    "right": {
+      "uuid": "d36907c6-327f-44c7-bea1-b8d1099436e7",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Prominent Republicans call for Ariz. Gov. Jan Brewer to veto bill allowing denial of service to gays",
+        "date": "2014-02-26",
+        "url": "http://www.foxnews.com/us/2014/02/26/arizona-gov-jan-brewer-jets-home-amid-furor-over-bill-allowing-denial-service/print",
+        "word_count": 580,
+        "main_entities": [
+          "Jan Brewer",
+          "SB 1062 bill"
+        ],
+        "main_event": "Jan Brewer urged to veto gay discrimination bill"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "96b7046f-f584-422f-a626-6f86a26dfd8b",
+    "left": {
+      "uuid": "94b195c8-1938-4ab9-9b38-2c24f4f652e0",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "G.O.P. Aide Quits After Ridiculing Obama\u2019s Daughters, Sasha and Malia",
+        "date": "2014-12-01",
+        "url": "https://www.nytimes.com/2014/12/02/us/gop-aide-quits-after-ridiculing-obamas-daughters.html",
+        "word_count": 658,
+        "main_entities": [
+          "Elizabeth Lauten",
+          "Barack Obama",
+          "Sasha and Malia Obama",
+          "Stephen Fincher"
+        ],
+        "main_event": "Elizabeth Lauten apologizes for criticizing Obama daughters"
+      }
+    },
+    "center": {
+      "uuid": "b65549b9-fe00-43ad-a468-724d04aef134",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Aide to GOP lawmaker apologizes for Facebook post ripping Obama daughters",
+        "date": "2014-11-30",
+        "url": "http://www.foxnews.com/politics/2014/11/30/aide-to-gop-lawmaker-apologizes-for-facebook-post-ripping-obama-daughters.html",
+        "word_count": 288,
+        "main_entities": [
+          "Elizabeth Lauten",
+          "Barack Obama",
+          "Sasha and Malia Obama"
+        ],
+        "main_event": "Elizabeth Lauten apologizes for criticizing Obama daughters"
+      }
+    },
+    "right": {
+      "uuid": "d66faaee-4cca-415f-b7c6-bbef87dd0800",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "GOP Staffer Apologizes For Lecturing Obama Daughters To 'Show A Little Class'",
+        "date": "2014-11-29",
+        "url": "https://www.huffingtonpost.com/2014/11/29/elizabeth-lauten-obama-daughters-class_n_6241202.html",
+        "word_count": 357,
+        "main_entities": [
+          "Elizabeth Lauten",
+          "Barack Obama",
+          "Sasha and Malia Obama"
+        ],
+        "main_event": "Elizabeth Lauten apologizes for criticizing Obama daughters"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "b764f81f-6d08-4d7c-b1a8-8961bed0a455",
+    "left": {
+      "uuid": "987ca58a-7b4b-4df5-b53f-b2a3902a01b7",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Nebraska, Oklahoma File Federal Suit Against Colorado Over Marijuana Legalization",
+        "date": "2014-12-18",
+        "url": "https://www.huffingtonpost.com/2014/12/18/lawsuit-colorado-marijuana_n_6350162.html",
+        "word_count": 805,
+        "main_entities": [
+          "Colorado officials",
+          "Nebraska officials",
+          "Oklahoma officials"
+        ],
+        "main_event": "Nebraska and Oklahoma fight Colorado's recreational marijuana policy"
+      }
+    },
+    "center": {
+      "uuid": "aaddc4d1-d6c2-4388-9588-1b6d17979113",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Colorado's top cop defends pot law after challenges from neighboring states ",
+        "date": "2014-12-19",
+        "url": "http://www.foxnews.com/politics/2014/12/19/colorado-top-cop-defends-pot-law-after-challenges-from-neighboring-states.html",
+        "word_count": 856,
+        "main_entities": [
+          "Colorado officials",
+          "Nebraska officials"
+        ],
+        "main_event": "Nebraska and Oklahoma fight Colorado's recreational marijuana policy"
+      }
+    },
+    "right": {
+      "uuid": "6b573b3f-9b68-4aac-996e-8bd06bf614b8",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Nebraska and Oklahoma Sue Colorado Over Marijuana Law",
+        "date": "2014-12-18",
+        "url": "https://www.nytimes.com/2014/12/19/us/politics/nebraska-and-oklahoma-sue-colorado-over-marijuana-law.html?_r=1",
+        "word_count": 808,
+        "main_entities": [
+          "Colorado officials",
+          "Nebraska and Oklahoma officials"
+        ],
+        "main_event": "Nebraska and Oklahoma fight Colorado's recreational marijuana policy"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "13792511-5142-449f-8d3e-d77d790f65ec",
+    "left": {
+      "uuid": "43e30ed6-f9c4-4d7a-842b-0d9fb2dbeab4",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Chris Christie Announces Run, Pledging \u2018Truth\u2019 About Nation\u2019s Woes",
+        "date": "2015-06-30",
+        "url": "https://www.nytimes.com/2015/07/01/us/politics/chris-christie-presidential-campaign.html",
+        "word_count": 1193,
+        "main_entities": [
+          "Chris Christie"
+        ],
+        "main_event": "Chris Christie announces bid for presidency"
+      }
+    },
+    "center": {
+      "uuid": "6c7827e9-646c-4357-b674-764ab4264a50",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "fox",
+        "title": "NJ Gov Chris Christie to Throw His Hat in the Ring for White House Run",
+        "date": "2015-06-30",
+        "url": "http://www.foxnews.com/us/2015/06/30/nj-gov-chris-christie-to-throw-his-hat-in-ring-for-white-house-run.html",
+        "word_count": 646,
+        "main_entities": [
+          "Chris Christie"
+        ],
+        "main_event": "Chris Christie announces bid for presidency"
+      }
+    },
+    "right": {
+      "uuid": "48d9863f-62d0-487e-b928-8a169a5048c5",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Chris Christie Announces He's Running For President In 2016",
+        "date": "2015-06-30",
+        "url": "https://www.huffingtonpost.com/2015/06/30/chris-christie-president_n_6480964.html",
+        "word_count": 614,
+        "main_entities": [
+          "Chris Christie"
+        ],
+        "main_event": "Chris Christie announces bid for presidency"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "2b9468af-4ab0-4f25-85f4-c3ef93d72006",
+    "left": {
+      "uuid": "428ef98c-26e1-4a69-80fb-e95cd2b2b4ab",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Obama Aide Calls Netanyahu\u2019s Planned Visit \u2018Destructive\u2019 to U.S.-Israel Ties",
+        "date": "2015-02-25",
+        "url": "https://www.nytimes.com/2015/02/26/us/politics/susan-rice-calls-netanyahus-planned-visit-destructive-to-us-israel-ties.html",
+        "word_count": 686,
+        "main_entities": [
+          "Barack Obama",
+          "Benjamin Netanyahu",
+          "Susan Rice"
+        ],
+        "main_event": "Netanyahu plans to deliver a speech to Congress"
+      }
+    },
+    "center": {
+      "uuid": "32d3eab9-fd13-46e6-ab3a-d1eb680e1978",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Susan Rice: Netanyahu Visit 'Destructive' To U.S.-Israel Relationship",
+        "date": "2015-02-25",
+        "url": "https://www.huffingtonpost.com/2015/02/25/susan-rice-netanyahu_n_6751146.html",
+        "word_count": 246,
+        "main_entities": [
+          "Barack Obama",
+          "Benjamin Netanyahu"
+        ],
+        "main_event": "Netanyahu plans to deliver a speech to Congress"
+      }
+    },
+    "right": {
+      "uuid": "8b93035f-edd3-48b7-b617-59399ccddca4",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Susan Rice calls Netanyahu's Capitol Hill speech 'destructive' to US-Israel relations",
+        "date": "2015-02-25",
+        "url": "http://www.foxnews.com/politics/2015/02/25/white-house-adviser-rice-says-netanyahu-capitol-hill-address-destructive-to-us.html",
+        "word_count": 585,
+        "main_entities": [
+          "Benjamin Netanyahu",
+          "Susan Rice",
+          "Joe Biden"
+        ],
+        "main_event": "Netanyahu plans to deliver a speech to Congress"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "4f473faf-f928-4cfd-8bed-00578be9db9a",
+    "left": {
+      "uuid": "19e13838-5b2c-469b-a473-0cb10e093330",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Washington gov, Seattle mayor ban official travel to Indiana in wake of 'religious freedom' law",
+        "date": "2015-03-31",
+        "url": "http://www.foxnews.com/politics/2015/03/31/seattle-mayor-bans-official-travel-to-indiana-amid-opposition-to-state-new.html",
+        "word_count": 726,
+        "main_entities": [
+          "Mike Pence",
+          "Ed Murray",
+          "Jay Inslee",
+          "Religious Freedom Restoration Act"
+        ],
+        "main_event": "Washington gov, Seattle mayor oppose the Religious Freedom Restoration Act"
+      }
+    },
+    "center": {
+      "uuid": "0be5b4d1-ad0c-4f8a-8f78-29bfcde0cb52",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Indiana Governor Says Legislators May Clarify Religious Beliefs Law",
+        "date": "2015-03-29",
+        "url": "https://www.nytimes.com/2015/03/30/us/politics/legislators-in-indiana-may-clarify-beliefs-law.html",
+        "word_count": 655,
+        "main_entities": [
+          "Mike Pence",
+          "Religious Freedom Restoration Act"
+        ],
+        "main_event": "Mike Pence seeks legislation to clarify the Religious Freedom Restoration Act"
+      }
+    },
+    "right": {
+      "uuid": "65c55de1-8a64-46e9-8008-db05b43cb92c",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Washington State To Boycott Indiana Over LGBT Discrimination Law",
+        "date": "2015-03-30",
+        "url": "https://www.huffingtonpost.com/2015/03/30/washington-indiana-discrimination-law_n_6973700.html",
+        "word_count": 537,
+        "main_entities": [
+          "Mike Pence",
+          "Jay Inslee",
+          "Religious Freedom Restoration Act"
+        ],
+        "main_event": "The cities and states are joined by a number of business leaders speaking out against the Religious Freedom Restoration Act"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "7f9c83f7-3efa-4c7a-adef-3ebdeda96042",
+    "left": {
+      "uuid": "0acf2cec-34eb-4482-806d-efaf5d8a1501",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Marco Rubio Lays Out Hawkish Foreign Policy Doctrine Invoking Kennedy",
+        "date": "2015-05-13",
+        "url": "https://www.huffingtonpost.com/2015/05/13/marco-rubio-foreign-policy_n_7276584.html",
+        "word_count": 576,
+        "main_entities": [
+          "Marco Rubio",
+          "Barack Obama"
+        ],
+        "main_event": "Marco Rubio announces his foreign policy"
+      }
+    },
+    "center": {
+      "uuid": "7c1ef53d-6333-462a-81d6-d996d9b7f67d",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Marco Rubio to Outline His Approach to Foreign Policy",
+        "date": "2015-05-13",
+        "url": "https://www.nytimes.com/politics/first-draft/2015/05/13/marco-rubio-to-outline-his-approach-to-foreign-policy/",
+        "word_count": 374,
+        "main_entities": [
+          "Marco Rubio"
+        ],
+        "main_event": "Marco Rubio announces his foreign policy"
+      }
+    },
+    "right": {
+      "uuid": "c430a2e0-646b-477b-927f-770e81a15118",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "In first foreign policy speech, candidate Rubio pushes stronger U.S. leadership",
+        "date": "2015-05-13",
+        "url": "http://www.foxnews.com/politics/2015/05/13/in-first-foreign-policy-speech-candidate-marco-rubio-pushes-stronger-us.html",
+        "word_count": 909,
+        "main_entities": [
+          "Marco Rubio",
+          "Barack Obama"
+        ],
+        "main_event": "Marco Rubio announces his foreign policy"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "8dac6c12-b5ca-468c-a249-7e0ab42f6b52",
+    "left": {
+      "uuid": "0211f3a6-2764-4a25-8635-0939e831feee",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Hillary Clinton Urges Obama to Listen to Democrats on Trade Deal",
+        "date": "2015-06-14",
+        "url": "https://www.nytimes.com/politics/first-draft/2015/06/14/hillary-clinton-urges-obama-to-listen-to-democrats-on-trade-deal/?_r=0",
+        "word_count": 793,
+        "main_entities": [
+          "Hillary Clinton",
+          "Bernie Sanders",
+          "Barack Obama"
+        ],
+        "main_event": "Hillary Clinton urges Obama to listen to Democrats on trade deal"
+      }
+    },
+    "center": {
+      "uuid": "65bb63ac-97df-4ef0-b61e-2946d2ec0003",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Hillary Clinton: Obama Should Listen To Nancy Pelosi On Trade",
+        "date": "2015-06-14",
+        "url": "https://www.huffingtonpost.com/2015/06/14/hillary-clinton-trade-deal_n_7580768.html?ec_carp=1234129881583327902",
+        "word_count": 336,
+        "main_entities": [
+          "Hillary Clinton",
+          "Nancy Pelosi",
+          "Barack Obama"
+        ],
+        "main_event": "Hillary Clinton suggests Obama should listen to his allies  on trade"
+      }
+    },
+    "right": {
+      "uuid": "c86aca6f-3cec-4089-8a0a-2746c2020474",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Clinton, advisers have lots to say on key trade legislation, except where candidate stands",
+        "date": "2015-06-15",
+        "url": "http://www.foxnews.com/politics/2015/06/14/clinton-stays-mum-on-critical-trade-agreement-adviser-says-waiting-for-final.html",
+        "word_count": 805,
+        "main_entities": [
+          "Hillary Clinton",
+          "Barack Obama"
+        ],
+        "main_event": "Questions raised about Clinton's stance on the trade deal"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "a4edca3f-931f-4785-8c3f-f3d8fa84cbec",
+    "left": {
+      "uuid": "81110ee8-ab27-467f-86f3-c26ed2ede9a4",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Hillary Clinton Asks State Department to Vet Emails for Release",
+        "date": "2015-03-05",
+        "url": "https://www.nytimes.com/2015/03/06/us/politics/hillary-clinton-asks-state-dept-to-review-emails-for-public-release.html",
+        "word_count": 839,
+        "main_entities": [
+          "Hillary Clinton"
+        ],
+        "main_event": "Hillary Clinton asks state department to vet emails for release"
+      }
+    },
+    "center": {
+      "uuid": "716084b8-2a43-4f01-ad49-7681a0a8a016",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "John McCain Suggests Hillary Clinton's Use Of Personal Email Was Hypocritical",
+        "date": "2015-03-05",
+        "url": "http://www.huffingtonpost.com/2015/03/05/john-mccain-hillary-clinton_n_6812422.html",
+        "word_count": 350,
+        "main_entities": [
+          "Hillary Clinton",
+          "George W. Bush"
+        ],
+        "main_event": "John McCain suggests Hillary Clinton's use of personal email was hypocritical"
+      }
+    },
+    "right": {
+      "uuid": "e8ddc809-1dc1-4ca6-8959-7ddd142dba1c",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Hillary Clinton's use of private email address while secretary of state draws scrutiny",
+        "date": "2015-03-03",
+        "url": "http://www.foxnews.com/politics/2015/03/03/hillary-clinton-exclusively-used-private-email-account-while-secretary-state-ny.html",
+        "word_count": 806,
+        "main_entities": [
+          "Hillary Clinton"
+        ],
+        "main_event": "Hillary Clinton used a personal email account to exclusively conduct official business"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "af4a3f41-eeb5-49fa-a276-e97c230b25f0",
+    "left": {
+      "uuid": "4d51331a-0056-411b-a8e7-effe5f0b33d6",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "Mike Huckabee on the Issues",
+        "date": "2015-05-05",
+        "url": "https://www.nytimes.com/2015/05/06/us/politics/mike-huckabee-on-the-issues.html",
+        "word_count": 415,
+        "main_entities": [
+          "Mike Huckabee"
+        ],
+        "main_event": "Mike Huckabee announced his run for the presidency"
+      }
+    },
+    "center": {
+      "uuid": "6222fc9f-4cdf-435f-bbf0-41eff396a3e0",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Mike Huckabee Is Running For President",
+        "date": "2015-05-05",
+        "url": "http://www.huffingtonpost.com/2015/05/05/mike-huckabee-2016_n_7120826.html",
+        "word_count": 671,
+        "main_entities": [
+          "Mike Huckabee"
+        ],
+        "main_event": "Mike Huckabee announced his run for the presidency"
+      }
+    },
+    "right": {
+      "uuid": "9d39afe0-4041-4e06-86e5-ff2a92a08a32",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Huckabee announces 2016 White House bid, with focus on economy and security | Fox News",
+        "date": "2015-05-05",
+        "url": "http://www.foxnews.com/politics/2015/05/05/huckabee-announces-2016-white-house-bid.html",
+        "word_count": 875,
+        "main_entities": [
+          "Mike Huckabee"
+        ],
+        "main_event": "Mike Huckabee announced his run for the presidency"
+      }
+    }
+  },
+  {
+    "triplet_uuid": "c5534b7e-a373-4962-8345-3847bc41a636",
+    "left": {
+      "uuid": "61809002-229a-45a6-a258-b18490579bc3",
+      "ideology": "left",
+      "ideology_id": 0,
+      "article_metadata": {
+        "source": "hpo",
+        "title": "Benghazi Panel Wants To Interview Clinton About Emails",
+        "date": "2015-03-31",
+        "url": "http://www.huffingtonpost.com/2015/03/31/gowdy-requests-interview_n_6977642.html",
+        "word_count": 452,
+        "main_entities": [
+          "Hillary Clinton",
+          "Trey Gowdy"
+        ],
+        "main_event": "Benghazi committee wants to interview Clinton about emails"
+      }
+    },
+    "center": {
+      "uuid": "747b0b60-79b6-4de3-9226-d532fa59c385",
+      "ideology": "center",
+      "ideology_id": 1,
+      "article_metadata": {
+        "source": "fox",
+        "title": "Benghazi committee seeks 'transcribed' interview with Clinton over deleted records",
+        "date": "2015-03-31",
+        "url": "http://www.foxnews.com/politics/2015/03/31/benghazi-committee-requests-clinton-submit-to-interview-about-private-deleted.html",
+        "word_count": 419,
+        "main_entities": [
+          "Hillary Clinton",
+          "Trey Gowdy"
+        ],
+        "main_event": "Benghazi committee wants to interview Clinton about emails"
+      }
+    },
+    "right": {
+      "uuid": "6257d6b8-9698-44c9-b320-fe5e18536c42",
+      "ideology": "right",
+      "ideology_id": 2,
+      "article_metadata": {
+        "source": "nyt",
+        "title": "House Panel Seeks Private Talk With Hillary Clinton About Email",
+        "date": "2015-03-31",
+        "url": "https://www.nytimes.com/2015/04/01/us/politics/hillary-clinton-email-benghazi-inquiry.html",
+        "word_count": 833,
+        "main_entities": [
+          "Hillary Clinton",
+          "Trey Gowdy"
+        ],
+        "main_event": "Benghazi committee wants to interview Clinton about emails"
+      }
+    }
+  }
+]

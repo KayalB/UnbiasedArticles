@@ -1,0 +1,302 @@
+[
+  {
+    "uuid": "d2e17368-b2da-4ee4-a7d9-8a5cccdebefd",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "title": "Michael Steele Criticized for Afghanistan Comments",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses selective emphasis and implicit judgment, presenting Michael Steele's comments as a gaffe and highlighting criticism from conservative voices, while also quoting a Democratic spokesman's criticism without equivalent representation from Republican officials, indicating a subtle liberal orientation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses selective emphasis and implicit judgment, presenting Michael Steele's comments as a gaffe and highlighting criticism from conservative voices, while also quoting a Democratic spokesman's criticism without equivalent representation from Republican officials, indicating a subtle liberal orientation.\" }"
+  },
+  {
+    "uuid": "238b97e4-c6f7-4fbb-87c2-3c92c5fb3b03",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "title": "GOP Senators Keep Pressure on Steele Over 'Inaccurate' Afghanistan Comments",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis on Republican senators' and conservatives' criticism of Michael Steele, and employs emotionally loaded language such as 'backlash', 'unacceptable', and 'inaccurate' to frame Steele's comments, indicating a conservative bias."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis on Republican senators' and conservatives' criticism of Michael Steele, and employs emotionally loaded language such as 'backlash', 'unacceptable', and 'inaccurate' to frame Steele's comments, indicating a conservative bias.\" }"
+  },
+  {
+    "uuid": "f03b6656-7eb7-4446-968a-d6aa805fd4a3",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "title": "Michael Steele’s Afghanistan Comments Stir Up Furious Reaction From Conservatives",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses selective emphasis and implicit judgment to portray Michael Steele's comments as inconsistent and embarrassing, while also highlighting the negative reactions from conservative figures, which suggests a liberal orientation. The language and tone used to describe the reactions from conservatives, such as 'furious' and 'harshest', also contribute to the biased nature of the article."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses selective emphasis and implicit judgment to portray Michael Steele's comments as inconsistent and embarrassing, while also highlighting the negative reactions from conservative figures, which suggests a liberal orientation. The language and tone used to describe the reactions from conservatives, such as 'furious' and 'harshest', also contribute to the biased nature of the article.\" }"
+  },
+  {
+    "uuid": "73b9c883-1fce-456d-8f13-29006e58ff13",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "title": "White House Used Bill Clinton to Ask Sestak to Drop Out of Race",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a balanced view of the situation, quoting both White House officials and Republican critics, and provides factual information about the relevant laws and historical context, without using emotionally loaded language or selective emphasis to promote a particular perspective."
+    },
+    "raw_output": "{ \"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a balanced view of the situation, quoting both White House officials and Republican critics, and provides factual information about the relevant laws and historical context, without using emotionally loaded language or selective emphasis to promote a particular perspective.\" }"
+  },
+  {
+    "uuid": "9fb5214f-563a-4fc5-b204-fac51cb2ca31",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "title": "White House Asked Bill Clinton to Urge Sestak to Drop Out of Senate Race",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis on the controversy surrounding the White House's actions and quotes critics, such as Rep. Darrell Issa, who are opposed to the Obama administration, while presenting the administration's defense in a more matter-of-fact way, indicating a conservative leaning."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis on the controversy surrounding the White House's actions and quotes critics, such as Rep. Darrell Issa, who are opposed to the Obama administration, while presenting the administration's defense in a more matter-of-fact way, indicating a conservative leaning.\" }"
+  },
+  {
+    "uuid": "333aa94a-629a-4025-9af2-40bdc51c5bf1",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "title": "White House Asked Bill Clinton To Talk To Joe Sestak About Senate Run",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a factual account of the events surrounding the White House's offer to Joe Sestak, using objective language and providing context from various sources, without expressing a subjective opinion or emotional tone, and does not exhibit a noticeable liberal or conservative slant."
+    },
+    "raw_output": "{ \"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a factual account of the events surrounding the White House's offer to Joe Sestak, using objective language and providing context from various sources, without expressing a subjective opinion or emotional tone, and does not exhibit a noticeable liberal or conservative slant.\" }"
+  },
+  {
+    "uuid": "ae5c9925-6003-40b6-bff6-61e8cf269ed4",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "title": "G.O.P. Seizes on Mosque Issue Ahead of Elections",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article presents a subjective framing of the issue, with a focus on Republican candidates 'seizing' on the mosque issue and 'intensifying efforts' to inject it into the campaigns, implying a sense of opportunism, while also quoting Democratic officials who accuse Republicans of 'exploiting' the Sept. 11 attacks, indicating a subtle liberal orientation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article presents a subjective framing of the issue, with a focus on Republican candidates 'seizing' on the mosque issue and 'intensifying efforts' to inject it into the campaigns, implying a sense of opportunism, while also quoting Democratic officials who accuse Republicans of 'exploiting' the Sept. 11 attacks, indicating a subtle liberal orientation.\" }"
+  },
+  {
+    "uuid": "bfb98e01-ba5d-4bef-adb7-01415979a4b8",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "title": "Reid Breaks With Obama Over Proposed Ground Zero Mosque",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis and emotionally loaded language, such as 'hyper-sensitive and volatile mosque debate' and 'politically sticky issue', to frame the controversy in a way that leans towards a conservative perspective, and cites a Fox News poll to support its claims, which further suggests a conservative bias."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis and emotionally loaded language, such as 'hyper-sensitive and volatile mosque debate' and 'politically sticky issue', to frame the controversy in a way that leans towards a conservative perspective, and cites a Fox News poll to support its claims, which further suggests a conservative bias.\" }"
+  },
+  {
+    "uuid": "fb62ca48-9a76-4321-b2be-f13ea6c0100b",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "title": "Reid: Mosque Should Be Built Someplace Else",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses subjective framing, such as describing the news as a 'double dose of bad news for progressives', and emotionally loaded language, like 'short-lived hope' and 'devastated', to convey a negative tone towards the opposition to the mosque, indicating a liberal orientation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses subjective framing, such as describing the news as a 'double dose of bad news for progressives', and emotionally loaded language, like 'short-lived hope' and 'devastated', to convey a negative tone towards the opposition to the mosque, indicating a liberal orientation.\" }"
+  },
+  {
+    "uuid": "f462327d-7021-486b-a262-a1d2ffc4bc25",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "title": "N.C. Congressman Apologizes for Physical Confrontation With Man in Washington",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis and quotes from a conservative blogger to frame the incident in a negative light, and also highlights the congressman's support for Democratic legislation, which may be perceived as unfavorable by conservative readers. The language used, such as 'physical assault' and 'unbecoming of a member of Congress', also carries a negative tone."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis and quotes from a conservative blogger to frame the incident in a negative light, and also highlights the congressman's support for Democratic legislation, which may be perceived as unfavorable by conservative readers. The language used, such as 'physical assault' and 'unbecoming of a member of Congress', also carries a negative tone.\" }"
+  },
+  {
+    "uuid": "44c70e9c-3ff8-49b2-88a3-ce22bba21449",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "title": "Etheridge, Caught on Video, Apologizes ",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a factual account of the incident involving Representative Bob Etheridge, including his apology, without using emotionally loaded language or selective emphasis to promote a particular viewpoint, and it also provides context and quotes from both the congressman and a Republican spokesman."
+    },
+    "raw_output": "{\"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a factual account of the incident involving Representative Bob Etheridge, including his apology, without using emotionally loaded language or selective emphasis to promote a particular viewpoint, and it also provides context and quotes from both the congressman and a Republican spokesman.\"}"
+  },
+  {
+    "uuid": "a5cb6419-2bb9-4af3-8046-96637f050cd9",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "title": "Bob Etheridge Attacks Student: North Carolina Congressman Gets Rough With Interviewer",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses emotionally loaded language, such as 'attacks' and 'assault', and selective emphasis on the congressman's reaction, while also quoting a post from Big Government with a clear conservative perspective, indicating a biased tone with a conservative orientation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses emotionally loaded language, such as 'attacks' and 'assault', and selective emphasis on the congressman's reaction, while also quoting a post from Big Government with a clear conservative perspective, indicating a biased tone with a conservative orientation.\" }"
+  },
+  {
+    "uuid": "40b85964-da38-43b1-82e3-74327c79cb24",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "title": "Glenn Beck Rips Progressivism at CPAC",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses subjective framing and emotionally loaded language, such as 'ripped' and 'populist rage', to describe Glenn Beck's speech and the conservative movement, indicating a conservative bias. The tone of the article is also overwhelmingly positive towards Beck and the CPAC event, further suggesting a conservative orientation."
+    },
+    "raw_output": "{\"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses subjective framing and emotionally loaded language, such as 'ripped' and 'populist rage', to describe Glenn Beck's speech and the conservative movement, indicating a conservative bias. The tone of the article is also overwhelmingly positive towards Beck and the CPAC event, further suggesting a conservative orientation.\"}"
+  },
+  {
+    "uuid": "17a9d9cb-727d-4173-b829-ceded51002e5",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "title": "Beck Wows the CPAC Crowd",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses subjective framing and emotionally loaded language, such as describing Glenn Beck as the 'hero of the political right' and quoting his provocative statements without critical commentary, indicating a conservative bias. The tone of the article also appears to be sympathetic to Beck's views, highlighting his ability to 'wow' the crowd and hold them 'spellbound'."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses subjective framing and emotionally loaded language, such as describing Glenn Beck as the 'hero of the political right' and quoting his provocative statements without critical commentary, indicating a conservative bias. The tone of the article also appears to be sympathetic to Beck's views, highlighting his ability to 'wow' the crowd and hold them 'spellbound'.\" }"
+  },
+  {
+    "uuid": "f3d0ebba-4805-4def-b3ac-4359d5937556",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "title": "Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses subjective framing and emotionally loaded language, such as 'bombastic conservative talk show host' and 'swipes at Democrats', to describe Glenn Beck and his speech, revealing a liberal bias. The tone of the article also implies a critical view of Beck's demand for ideological purity within the Republican Party, further suggesting a liberal orientation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses subjective framing and emotionally loaded language, such as 'bombastic conservative talk show host' and 'swipes at Democrats', to describe Glenn Beck and his speech, revealing a liberal bias. The tone of the article also implies a critical view of Beck's demand for ideological purity within the Republican Party, further suggesting a liberal orientation.\" }"
+  },
+  {
+    "uuid": "9495dca7-8ae6-48c3-adf9-eb2df4901f0e",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "title": "Steele to Announce Decision on R.N.C. Run",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a factual and balanced report on the potential resignation or re-election of Michael Steele as RNC chairman, without using emotionally loaded language or selective emphasis to promote a particular viewpoint. The language used is objective and informative, providing context and details about the situation without expressing implicit judgment or bias."
+    },
+    "raw_output": "{ \"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a factual and balanced report on the potential resignation or re-election of Michael Steele as RNC chairman, without using emotionally loaded language or selective emphasis to promote a particular viewpoint. The language used is objective and informative, providing context and details about the situation without expressing implicit judgment or bias.\" }"
+  },
+  {
+    "uuid": "9913f8f7-a5eb-4c8b-b0e2-278ad440e4ca",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "title": "RNC Chairman Steele to Announce Intentions on a Second Term",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a balanced view of the situation, citing both expectations and uncertainties surrounding Steele's decision, and provides factual information about the context and potential challengers, without using emotionally loaded language or displaying selective emphasis."
+    },
+    "raw_output": "{ \"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a balanced view of the situation, citing both expectations and uncertainties surrounding Steele's decision, and provides factual information about the context and potential challengers, without using emotionally loaded language or displaying selective emphasis.\" }"
+  },
+  {
+    "uuid": "a782d93c-cb4a-4096-873d-716791eedf2a",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "title": "Michael Steele's End Could Be Near",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "neutral",
+      "orientation": "neutral",
+      "rationale": "The article presents a balanced view of the situation, citing multiple sources from different outlets, and avoids using emotionally loaded language or subjective framing, sticking to factual reporting of the potential departure of Michael Steele as RNC Chairman."
+    },
+    "raw_output": "{ \"article_bias\": \"neutral\", \"orientation\": \"neutral\", \"rationale\": \"The article presents a balanced view of the situation, citing multiple sources from different outlets, and avoids using emotionally loaded language or subjective framing, sticking to factual reporting of the potential departure of Michael Steele as RNC Chairman.\" }"
+  },
+  {
+    "uuid": "bf45994d-2159-4c28-9d63-ff12c5337bf5",
+    "triplet_uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "title": "Richard Blumenthal's Words on Vietnam Service Differ From History",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses selective emphasis and implicit judgment to criticize Richard Blumenthal's statements about his military service, with a tone that suggests he has been dishonest about his record, which may indicate a liberal bias given Blumenthal's Democratic affiliation."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses selective emphasis and implicit judgment to criticize Richard Blumenthal's statements about his military service, with a tone that suggests he has been dishonest about his record, which may indicate a liberal bias given Blumenthal's Democratic affiliation.\" }"
+  },
+  {
+    "uuid": "8a841e62-6284-49a9-a2ed-931b603750f1",
+    "triplet_uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "title": "While Blumenthal Retains Washington Support, Republicans Smell Opening in CT",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis on Blumenthal's past incorrect statement and quotes from Republican Sen. John Cornyn to frame the story, while also highlighting the potential for a Republican upset in the election, indicating a conservative bias. The language used, such as 'on the political ropes' and 'smell an opening', also contributes to the subjective framing of the story."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis on Blumenthal's past incorrect statement and quotes from Republican Sen. John Cornyn to frame the story, while also highlighting the potential for a Republican upset in the election, indicating a conservative bias. The language used, such as 'on the political ropes' and 'smell an opening', also contributes to the subjective framing of the story.\" }"
+  },
+  {
+    "uuid": "b724c385-6954-43da-a0cc-95ae8a11628d",
+    "triplet_uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "title": "Richard Blumenthal Calls NYT Report 'Outrageous Distortion'",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article's framing and language, such as quoting a Democrat's defense and highlighting a Republican opponent's potential involvement in the controversy, suggest a subtle liberal bias, and the presentation of facts and counterpoints implies a subjective emphasis on Blumenthal's perspective."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article's framing and language, such as quoting a Democrat's defense and highlighting a Republican opponent's potential involvement in the controversy, suggest a subtle liberal bias, and the presentation of facts and counterpoints implies a subjective emphasis on Blumenthal's perspective.\" }"
+  },
+  {
+    "uuid": "5e64563a-b779-4c45-973e-949f78acef0a",
+    "triplet_uuid": "97b1305c-13ca-4b74-a56a-f459bd79dfaf",
+    "title": "N.A.A.C.P. Challenges Tea Party on Racism",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses selective emphasis on the N.A.A.C.P.'s resolution and quotes from its president, while also highlighting negative reactions from Tea Party groups, creating an implicit judgment against the Tea Party movement. The language and tone also suggest a sympathetic stance towards the N.A.A.C.P.'s concerns about racism within the Tea Party."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses selective emphasis on the N.A.A.C.P.'s resolution and quotes from its president, while also highlighting negative reactions from Tea Party groups, creating an implicit judgment against the Tea Party movement. The language and tone also suggest a sympathetic stance towards the N.A.A.C.P.'s concerns about racism within the Tea Party.\" }"
+  },
+  {
+    "uuid": "93ba0f89-9a38-4100-bdbe-6f4d9c06b1ff",
+    "triplet_uuid": "97b1305c-13ca-4b74-a56a-f459bd79dfaf",
+    "title": "NAACP Resolution Calls on Tea Party to Repudiate 'Racist Elements' in Movement",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses selective emphasis and quotes from Tea Party members to counter the NAACP's resolution, while also providing a platform for Tea Party organizers to attack the NAACP, indicating a conservative bias. The language and tone used to describe the NAACP's actions, such as 'playing the race card' and being 'irrelevant', also suggest a subjective framing that favors the Tea Party's perspective."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses selective emphasis and quotes from Tea Party members to counter the NAACP's resolution, while also providing a platform for Tea Party organizers to attack the NAACP, indicating a conservative bias. The language and tone used to describe the NAACP's actions, such as 'playing the race card' and being 'irrelevant', also suggest a subjective framing that favors the Tea Party's perspective.\" }"
+  },
+  {
+    "uuid": "8824d4fb-3b21-4f43-910a-b4399866db9f",
+    "triplet_uuid": "97b1305c-13ca-4b74-a56a-f459bd79dfaf",
+    "title": "NAACP Condemns Tea Party Racism In Resolution",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "liberal",
+      "rationale": "The article uses selective emphasis on the NAACP's condemnation of tea party racism and presents quotes from tea party organizers and supporters in a way that implies they are in denial or dismissive of legitimate concerns, while also highlighting incidents of alleged racism within the tea party movement, which creates a subjective framing that leans towards a liberal perspective."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"liberal\", \"rationale\": \"The article uses selective emphasis on the NAACP's condemnation of tea party racism and presents quotes from tea party organizers and supporters in a way that implies they are in denial or dismissive of legitimate concerns, while also highlighting incidents of alleged racism within the tea party movement, which creates a subjective framing that leans towards a liberal perspective.\" }"
+  },
+  {
+    "uuid": "d607f52a-1c7a-4b7d-bb46-5daedf3be369",
+    "triplet_uuid": "ae243a95-b2c2-410c-9e2b-b083b4b8eb48",
+    "title": "Senate Republicans Vow to Block Dem Legislation Until Tax Cuts, Budget Pass",
+    "ground_truth_article_bias": "biased",
+    "model_output": {
+      "article_bias": "biased",
+      "orientation": "conservative",
+      "rationale": "The article uses emotionally loaded language, such as 'throwing down the gauntlet' and 'job-killing tax hike', and selective emphasis on Republican talking points, indicating a conservative bias. The tone and language used also suggest a sympathetic view towards the Republican stance on tax cuts and spending."
+    },
+    "raw_output": "{ \"article_bias\": \"biased\", \"orientation\": \"conservative\", \"rationale\": \"The article uses emotionally loaded language, such as 'throwing down the gauntlet' and 'job-killing tax hike', and selective emphasis on Republican talking points, indicating a conservative bias. The tone and language used also suggest a sympathetic view towards the Republican stance on tax cuts and spending.\" }"
+  }
+]

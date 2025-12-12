@@ -1,0 +1,2142 @@
+[
+  {
+    "uuid": "d2e17368-b2da-4ee4-a7d9-8a5cccdebefd",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "source": "nyt",
+    "title": "Michael Steele Criticized for Afghanistan Comments",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"WASHINGTON — Michael Steele, chairman of the Republican National Committee, drew fierce criticism and a call for his resignation on Friday after declaring at a party fund-raiser that the United States was on the wrong side of history with its conflict in Afghanistan, a military fight he called “a war of Obama’s choosing.”\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"“This is not something the United States had actively prosecuted or wanted to engage in,” Mr. Steele said in a speech Thursday night in Connecticut in which he offered a strong critique of President Obama’s military strategy.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"“It was the president who was trying to be cute by half by flipping a script demonizing Iraq, while saying the battle really should be Afghanistan,” Mr. Steele said, according to a video of his remarks that was circulated by Democrats on Friday.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"“Well, if he’s such a student of history, has he not understood that you know that’s the one thing you don’t do, is engage in a land war in Afghanistan?”\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Steele, seeking to clarify his remarks, issued a statement on Friday afternoon, saying, “There is no question that America must win the war on terror.”\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"His remarks were the latest in a string of controversial statements that he has made as party chairman.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"The war in Afghanistan, which has entered its ninth year, was started by former President George W. Bush in response to the terrorist attacks on Sept. 11, 2001.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Obama shifted the focus on the war on terrorism from Iraq to Afghanistan and last year announced his plan to send 30,000 more troops there.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Steele’s comments prompted William Kristol, editor of the Weekly Standard and a leading voice of conservative support for the war in Afghanistan, to call for Mr. Steele’s resignation as party leader.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"“Your tenure has, of course, been marked by gaffes and embarrassments, but I for one have never paid much attention to them, and have never thought they would matter much to the success of the causes and principles we share,” Mr. Kristol wrote Friday.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"He added, “Needless to say, the war in Afghanistan was not ‘a war of Obama’s choosing.’ It has been prosecuted by the United States under Presidents Bush and Obama.”\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"He added, “There are, of course, those who think we should pull out of Afghanistan, and they’re certainly entitled to make their case.”\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But one of them shouldn’t be the chairman of the Republican Party.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"A spokesman for the Democratic National Committee, Brad Woodhouse, said Mr. Steele was “betting against our troops and rooting for failure in Afghanistan.” Republican officials dismissed that criticism.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"When Mr. Steele made the remarks, he was speaking to Republican contributors at a fund-raiser in Connecticut.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Linda McMahon, the party’s candidate for the United States Senate in Connecticut, was in the audience, along with other leading state Republicans.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The video appears to have been taken by a hidden camera at an event that was closed to the press.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Republican officials did not dispute the authenticity of the video, but disputed its characterization.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"In his statement on Friday afternoon, Mr. Steele did not respond to the call for his resignation.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But he sought to make the case that Afghanistan is now Mr. Obama’s war.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"“For the sake of the security of the free world, our country must give our troops the support necessary to win this war,” Mr. Steele said.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"“As we have learned throughout history, winning a war in Afghanistan is a difficult task.”\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"We must also remember that after the tragedy of Sept. 11, 2001, it is also a necessary one.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He added, with a reference to Gen. David H. Petraeus: “That is why I supported the decision to increase our troop force and, like the entire United States Senate, I support General Petraeus’s confirmation.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The stakes are too high for us to accept anything but success in Afghanistan.”\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "WASHINGTON — Michael Steele, chairman of the Republican National Committee, drew fierce criticism and a call for his resignation on Friday after declaring at a party fund-raiser that the United States was on the wrong side of history with its conflict in Afghanistan, a military fight he called “a war of Obama’s choosing.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“This is not something the United States had actively prosecuted or wanted to engage in,” Mr. Steele said in a speech Thursday night in Connecticut in which he offered a strong critique of President Obama’s military strategy.",
+          "bias": "none"
+        },
+        {
+          "text": "“It was the president who was trying to be cute by half by flipping a script demonizing Iraq, while saying the battle really should be Afghanistan,” Mr. Steele said, according to a video of his remarks that was circulated by Democrats on Friday.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“Well, if he’s such a student of history, has he not understood that you know that’s the one thing you don’t do, is engage in a land war in Afghanistan?”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Steele, seeking to clarify his remarks, issued a statement on Friday afternoon, saying, “There is no question that America must win the war on terror.”",
+          "bias": "none"
+        },
+        {
+          "text": "His remarks were the latest in a string of controversial statements that he has made as party chairman.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "The war in Afghanistan, which has entered its ninth year, was started by former President George W. Bush in response to the terrorist attacks on Sept. 11, 2001.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Obama shifted the focus on the war on terrorism from Iraq to Afghanistan and last year announced his plan to send 30,000 more troops there.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Steele’s comments prompted William Kristol, editor of the Weekly Standard and a leading voice of conservative support for the war in Afghanistan, to call for Mr. Steele’s resignation as party leader.",
+          "bias": "none"
+        },
+        {
+          "text": "“Your tenure has, of course, been marked by gaffes and embarrassments, but I for one have never paid much attention to them, and have never thought they would matter much to the success of the causes and principles we share,” Mr. Kristol wrote Friday.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "He added, “Needless to say, the war in Afghanistan was not ‘a war of Obama’s choosing.’ It has been prosecuted by the United States under Presidents Bush and Obama.”",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "He added, “There are, of course, those who think we should pull out of Afghanistan, and they’re certainly entitled to make their case.”",
+          "bias": "none"
+        },
+        {
+          "text": "But one of them shouldn’t be the chairman of the Republican Party.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "A spokesman for the Democratic National Committee, Brad Woodhouse, said Mr. Steele was “betting against our troops and rooting for failure in Afghanistan.” Republican officials dismissed that criticism.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "When Mr. Steele made the remarks, he was speaking to Republican contributors at a fund-raiser in Connecticut.",
+          "bias": "none"
+        },
+        {
+          "text": "Linda McMahon, the party’s candidate for the United States Senate in Connecticut, was in the audience, along with other leading state Republicans.",
+          "bias": "none"
+        },
+        {
+          "text": "The video appears to have been taken by a hidden camera at an event that was closed to the press.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Republican officials did not dispute the authenticity of the video, but disputed its characterization.",
+          "bias": "none"
+        },
+        {
+          "text": "In his statement on Friday afternoon, Mr. Steele did not respond to the call for his resignation.",
+          "bias": "none"
+        },
+        {
+          "text": "But he sought to make the case that Afghanistan is now Mr. Obama’s war.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "“For the sake of the security of the free world, our country must give our troops the support necessary to win this war,” Mr. Steele said.",
+          "bias": "none"
+        },
+        {
+          "text": "“As we have learned throughout history, winning a war in Afghanistan is a difficult task.”",
+          "bias": "none"
+        },
+        {
+          "text": "We must also remember that after the tragedy of Sept. 11, 2001, it is also a necessary one.",
+          "bias": "none"
+        },
+        {
+          "text": "He added, with a reference to Gen. David H. Petraeus: “That is why I supported the decision to increase our troop force and, like the entire United States Senate, I support General Petraeus’s confirmation.",
+          "bias": "none"
+        },
+        {
+          "text": "The stakes are too high for us to accept anything but success in Afghanistan.”",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "238b97e4-c6f7-4fbb-87c2-3c92c5fb3b03",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "source": "fox",
+    "title": "GOP Senators Keep Pressure on Steele Over 'Inaccurate' Afghanistan Comments",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a \\\"war of Obama's choosing\\\" and may not be winnable.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Speaking on \\\"Fox News Sunday,\\\" Sen.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan,\\\" he said.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\\"This is America's war. It's not Obama's war.\\\"\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"DeMint, who said Afghanistan is a war the United States must win, said Steele needs to \\\"refocus\\\" on the November election.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He called Steele's comments \\\"unacceptable\\\" and \\\"inaccurate.\\\"\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\\"We need a chairman who's focused,\\\" DeMint said.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Speaking on ABC's \\\"This Week,\\\" Sen. John McCain, R-Ariz., said Steele's comments were \\\"wildly inaccurate.\\\"\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"The Arizona Republican said Steele needs to assess whether he can still function in his job and must make \\\"an appropriate decision\\\" about his future.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Trying to quell the furor, Steele issued a statement saying: \\\"There is no question that America must win the war on terror.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"...\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He sent an e-mail to RNC members saying he hoped his statement would \\\"clear up any confusion\\\" caused by his earlier remarks.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"That didn't seem to quiet the controversy in the slightest.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on \\\"Fox News Sunday\\\" that Steele still needs to go -- though he said Steele tried to convince him otherwise.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"I think it would be better if he went,\\\" he said.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    }\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Republican senators kept up pressure on party Chairman Michael Steele Sunday to better explain -- and publicly apologize for -- his on-camera claim that Afghanistan is a \"war of Obama's choosing\" and may not be winnable.",
+          "bias": "none"
+        },
+        {
+          "text": "The backlash built quickly over the weekend as some prominent conservatives called for Steele's resignation.",
+          "bias": "none"
+        },
+        {
+          "text": "Speaking on \"Fox News Sunday,\" Sen.",
+          "bias": "none"
+        },
+        {
+          "text": "Jim DeMint, R-S.C., would not go that far but said Steele must apologize to the troops.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Chairman Steele needs to apologize to our military, all the men and women who've been fighting in Afghanistan,\" he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"This is America's war. It's not Obama's war.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The GOP chairman is known for off-the-cuff and occasionally troublesome comments, but the Afghanistan remarks were too much to bear for some war-supporting Republicans.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "DeMint, who said Afghanistan is a war the United States must win, said Steele needs to \"refocus\" on the November election.",
+          "bias": "none"
+        },
+        {
+          "text": "He called Steele's comments \"unacceptable\" and \"inaccurate.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"We need a chairman who's focused,\" DeMint said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Speaking on ABC's \"This Week,\" Sen. John McCain, R-Ariz., said Steele's comments were \"wildly inaccurate.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The Arizona Republican said Steele needs to assess whether he can still function in his job and must make \"an appropriate decision\" about his future.",
+          "bias": "none"
+        },
+        {
+          "text": "Trying to quell the furor, Steele issued a statement saying: \"There is no question that America must win the war on terror.",
+          "bias": "none"
+        },
+        {
+          "text": "...",
+          "bias": "none"
+        },
+        {
+          "text": "And, for the sake of the security of the free world, our country must give our troops the support necessary to win this war.\"",
+          "bias": "none"
+        },
+        {
+          "text": "He sent an e-mail to RNC members saying he hoped his statement would \"clear up any confusion\" caused by his earlier remarks.",
+          "bias": "none"
+        },
+        {
+          "text": "That didn't seem to quiet the controversy in the slightest.",
+          "bias": "none"
+        },
+        {
+          "text": "Weekly Standard Editor Bill Kristol, who led the charge of conservatives calling for Steele to step down over the remark, said on \"Fox News Sunday\" that Steele still needs to go -- though he said Steele tried to convince him otherwise.",
+          "bias": "none"
+        },
+        {
+          "text": "\"I think it would be better if he went,\" he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "f03b6656-7eb7-4446-968a-d6aa805fd4a3",
+    "triplet_uuid": "2b95d2cf-e979-4f9c-ae27-9a5370934f23",
+    "source": "hpo",
+    "title": "Michael Steele’s Afghanistan Comments Stir Up Furious Reaction From Conservatives",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Several prominent conservatives offered swift, negative reactions to Michael Steele on Friday, after the RNC chairman was caught on camera saying that Afghanistan is a largely unwinnable war of President Obama\\u2019s choosing.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"The pushback crested with Bill Kristol \\u2014 still an influential voice among Republican lawmakers \\u2014 writing a letter to Steele on his Weekly Standard site calling for the RNC leader\\u2019s resignation.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cNeedless to say, the war in Afghanistan was not \\u201ca war of Obama\\u2019s choosing.\\u201d It has been prosecuted by the United States under Presidents Bush and Obama.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Republicans have consistently supported the effort.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Indeed, as the DNC Communications Director (of all people) has said, your statement \\u201cputs [you] at odds with about 100 percent of the Republican Party.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"And not on a trivial matter.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"At a time when Gen.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Petraeus has just taken over command, when Republicans in Congress are pushing for a clean war funding resolution, when Republicans around the country are doing their best to rally their fellow citizens behind the mission, your comment is more than an embarrassment.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"It\\u2019s an affront, both to the honor of the Republican party and to the commitment of the soldiers fighting to accomplish the mission they\\u2019ve been asked to take on by our elected leaders.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"There are, of course, those who think we should pull out of Afghanistan, and they\\u2019re certainly entitled to make their case.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But one of them shouldn\\u2019t be the chairman of the Republican party.\\u201d\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Kristol\\u2019s was the harshest of all the reactions to the Steele, whose spokesman, it should be noted, tried to clarify the comment by insisting that he merely meant that President Obama has not been forthcoming with a winning strategy.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But the Weekly Standard editor was not alone.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Another major neoconservative figure, Dan Senor, told the Huffington Post that Steele\\u2019s comments are \\u201cutterly irresponsible.\\u201d Senor, who served under the Bush administration as chief spokesman in Iraq and has been a major booster of efforts to escalate U.S. military presence in Afghanistan, noted that Steele\\u2019s RNC actually sponsored a conference call for his group to praise Obama\\u2019s Afghan surge last year.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Indeed, even Steele himself declared back in December that Afghanistan is \\u201c\\u2019a war we have to win\\u201d \\u2014 a far cry from the comments he made Thursday night, in which he said: \\u201c...you don\\u2019t do is engage in a land war in Afghanistan, alright, because everyone who\\u2019s tried over a thousand years of history has failed.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cIt\\u2019s completely inconsistent with this latest statement,\\u201d summarized Senor.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"In a bit of irony, Steele\\u2019s most recent comments have actually resonated among anti-war Democrats who share the skepticism that Afghanistan is a winnable enterprise.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"They also, in some respects, echo the opinions of some members of the conservative community (Joe Scarborough and George Will among them) who have been critical of the deployment of U.S. forces in that country.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But Steele is not an anti-war Democrat.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Nor is he a pundit.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He is the figurehead of the Republican Party whose tenure, once again, seems shaky.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Shortly after Kristol called for his resignation, a GOP operative began pitching the column to reporters, hoping that the meme of Steele\\u2019s troubles would spread far and wide.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Several prominent conservatives offered swift, negative reactions to Michael Steele on Friday, after the RNC chairman was caught on camera saying that Afghanistan is a largely unwinnable war of President Obama’s choosing.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The pushback crested with Bill Kristol — still an influential voice among Republican lawmakers — writing a letter to Steele on his Weekly Standard site calling for the RNC leader’s resignation.",
+          "bias": "none"
+        },
+        {
+          "text": "“Needless to say, the war in Afghanistan was not “a war of Obama’s choosing.” It has been prosecuted by the United States under Presidents Bush and Obama.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Republicans have consistently supported the effort.",
+          "bias": "none"
+        },
+        {
+          "text": "Indeed, as the DNC Communications Director (of all people) has said, your statement “puts [you] at odds with about 100 percent of the Republican Party.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "And not on a trivial matter.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "At a time when Gen.",
+          "bias": "none"
+        },
+        {
+          "text": "Petraeus has just taken over command, when Republicans in Congress are pushing for a clean war funding resolution, when Republicans around the country are doing their best to rally their fellow citizens behind the mission, your comment is more than an embarrassment.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "It’s an affront, both to the honor of the Republican party and to the commitment of the soldiers fighting to accomplish the mission they’ve been asked to take on by our elected leaders.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "There are, of course, those who think we should pull out of Afghanistan, and they’re certainly entitled to make their case.",
+          "bias": "none"
+        },
+        {
+          "text": "But one of them shouldn’t be the chairman of the Republican party.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Kristol’s was the harshest of all the reactions to the Steele, whose spokesman, it should be noted, tried to clarify the comment by insisting that he merely meant that President Obama has not been forthcoming with a winning strategy.",
+          "bias": "none"
+        },
+        {
+          "text": "But the Weekly Standard editor was not alone.",
+          "bias": "none"
+        },
+        {
+          "text": "Another major neoconservative figure, Dan Senor, told the Huffington Post that Steele’s comments are “utterly irresponsible.” Senor, who served under the Bush administration as chief spokesman in Iraq and has been a major booster of efforts to escalate U.S. military presence in Afghanistan, noted that Steele’s RNC actually sponsored a conference call for his group to praise Obama’s Afghan surge last year.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Indeed, even Steele himself declared back in December that Afghanistan is “’a war we have to win” — a far cry from the comments he made Thursday night, in which he said: “...you don’t do is engage in a land war in Afghanistan, alright, because everyone who’s tried over a thousand years of history has failed.”",
+          "bias": "none"
+        },
+        {
+          "text": "“It’s completely inconsistent with this latest statement,” summarized Senor.",
+          "bias": "none"
+        },
+        {
+          "text": "In a bit of irony, Steele’s most recent comments have actually resonated among anti-war Democrats who share the skepticism that Afghanistan is a winnable enterprise.",
+          "bias": "none"
+        },
+        {
+          "text": "They also, in some respects, echo the opinions of some members of the conservative community (Joe Scarborough and George Will among them) who have been critical of the deployment of U.S. forces in that country.",
+          "bias": "none"
+        },
+        {
+          "text": "But Steele is not an anti-war Democrat.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Nor is he a pundit.",
+          "bias": "none"
+        },
+        {
+          "text": "He is the figurehead of the Republican Party whose tenure, once again, seems shaky.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Shortly after Kristol called for his resignation, a GOP operative began pitching the column to reporters, hoping that the meme of Steele’s troubles would spread far and wide.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "73b9c883-1fce-456d-8f13-29006e58ff13",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "source": "nyt",
+    "title": "White House Used Bill Clinton to Ask Sestak to Drop Out of Race",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"President Obama\\u2019s chief of staff used former President Bill Clinton as an intermediary to see if Representative Joe Sestak would drop out of Pennsylvania\\u2019s Democratic Senate primary if given a prominent, but unpaid, advisory position, the White House said on Friday.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Rahm Emanuel, the chief of staff, asked Mr. Clinton last summer to explore \\u201coptions of service\\u201d on a presidential or senior government advisory board with Mr. Sestak, the White House said in a statement.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Sestak said no and went on to win last week\\u2019s primary against Senator Arlen Specter.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The White House disputed Republican claims that the conversations might be illegal or improper.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cThere was no such impropriety,\\u201d Robert F.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Bauer, the White House counsel, said in a memo released to reporters.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cThe Democratic Party leadership had a legitimate interest in averting a divisive primary fight and a similarly legitimate concern about the congressman vacating his seat in the House.\\u201d\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Mr. Bauer went on to say that such horse-trading has been commonplace through history.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\u201cThere have been numerous, reported instances in the past when prior administrations \\u2013 both Democratic and Republican, and motivated by the same goals \\u2013 discussed alternative paths to service for qualified individuals also considering campaigns for public office,\\u201d he wrote.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cSuch discussions are fully consistent with the relevant law and ethical requirements.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Representative Darrell Issa of California, the senior Republican on the House Oversight and Government Reform Committee, said the interactions described by the White House \\u201crepresent an illegal quid pro quo,\\u201d even if the position was unpaid.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\u201cIt is abundantly clear that this kind of conduct is contrary to President Obama\\u2019s pledge to change \\u2019business as usual\\u2019 and that his administration has engaged in the kind of political shenanigans he once campaigned to end.\\u201d\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Federal law makes it a crime for anyone \\u201cwho directly or indirectly, promises any employment, position, compensation, contract, appointment, or any other benefit\\u201d to someone else \\u201cas consideration, favor, or reward for any political activity or for the support of or opposition to any candidate or any political party in connection with any general or special election to any political office.\\u201d It is also illegal for a government official to use \\u201chis official authority for the purpose of interfering with, or affecting, the nomination or the election of any candidate\\u201d for Senate.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"While many have speculated that the White House offered to appoint Mr. Sestak as secretary of the Navy, Mr. Bauer said that was never the case.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The White House did not offer Mr. Sestak a full-time paid position because Mr. Emanuel wanted him to stay in the House rather than risk losing his seat, so he considered \\u201cuncompensated advisory board options.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The White House did not disclose what those options were, but people briefed on the matter said one option was an appointment to the president\\u2019s Intelligence Advisory Board, a panel of prominent Americans outside government who provide independent oversight of the nation\\u2019s spy apparatus and advise the president.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But White House officials discovered that it would not work because Mr. Sestak could not serve on the board while still serving in Congress.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"In a statement Friday, Mr. Sestak said Mr. Clinton had conveyed Mr. Emanuel\\u2019s suggestion that he join a \\u201cpresidential board\\u201d while remaining in the House, but he declined.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cI told President Clinton that my only consideration in getting into the Senate race or not was whether it was the right thing to do for Pennsylvania working families and not any offer,\\u201d Mr. Sestak said.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cThe former president said he knew I\\u2019d say that, and the conversation moved on to other subjects.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Sestak first mentioned publicly in February that he had been offered a job but provided no details, and the White House for three months had refused to discuss it, generating intense criticism from Republicans who accused it of trying to bribe a congressman and deep consternation among Democrats who called on the administration to answer questions.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Mr. Emanuel was eager last summer to clear the way to this year\\u2019s Democratic Senate nomination for Mr. Specter, who had just left the Republican party, and to bolster Democrats\\u2019 majority in the Senate.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Sestak, a retired admiral and two-term House member, was already planning a run.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"In tapping Mr. Clinton as the go-between, Mr. Emanuel picked the party\\u2019s most prominent figure other than Mr. Obama and someone Mr. Sestak had worked for on the National Security Council in the 1990s.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Sestak endorsed Hillary Rodham Clinton against Mr. Obama in the 2008 presidential primaries, and Mr. Clinton was one of the first to call to congratulate him on his Senate victory last week.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Clinton was at the White House on Thursday to have lunch with Mr. Obama and join him in greeting the American men\\u2019s World Cup soccer team heading to South Africa.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"As chief of staff and previously as chairman of the Democratic Congressional Campaign Committee, Mr. Emanuel has not been shy about trying to steer party nominations to those he considers the stronger candidates.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The White House under Mr. Emanuel has also leaned on Gov.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"David Paterson of New York to drop out of this year\\u2019s gubernatorial race, which he eventually did under a cloud of scandal.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Emanuel\\u2019s deputy, Jim Messina, suggested a possible administration job to Andrew Romanoff to get him to not challenge Sen.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "President Obama’s chief of staff used former President Bill Clinton as an intermediary to see if Representative Joe Sestak would drop out of Pennsylvania’s Democratic Senate primary if given a prominent, but unpaid, advisory position, the White House said on Friday.",
+          "bias": "none"
+        },
+        {
+          "text": "Rahm Emanuel, the chief of staff, asked Mr. Clinton last summer to explore “options of service” on a presidential or senior government advisory board with Mr. Sestak, the White House said in a statement.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Sestak said no and went on to win last week’s primary against Senator Arlen Specter.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House disputed Republican claims that the conversations might be illegal or improper.",
+          "bias": "none"
+        },
+        {
+          "text": "“There was no such impropriety,” Robert F.",
+          "bias": "none"
+        },
+        {
+          "text": "Bauer, the White House counsel, said in a memo released to reporters.",
+          "bias": "none"
+        },
+        {
+          "text": "“The Democratic Party leadership had a legitimate interest in averting a divisive primary fight and a similarly legitimate concern about the congressman vacating his seat in the House.”",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Mr. Bauer went on to say that such horse-trading has been commonplace through history.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“There have been numerous, reported instances in the past when prior administrations – both Democratic and Republican, and motivated by the same goals – discussed alternative paths to service for qualified individuals also considering campaigns for public office,” he wrote.",
+          "bias": "none"
+        },
+        {
+          "text": "“Such discussions are fully consistent with the relevant law and ethical requirements.”",
+          "bias": "none"
+        },
+        {
+          "text": "Representative Darrell Issa of California, the senior Republican on the House Oversight and Government Reform Committee, said the interactions described by the White House “represent an illegal quid pro quo,” even if the position was unpaid.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“It is abundantly clear that this kind of conduct is contrary to President Obama’s pledge to change ’business as usual’ and that his administration has engaged in the kind of political shenanigans he once campaigned to end.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Federal law makes it a crime for anyone “who directly or indirectly, promises any employment, position, compensation, contract, appointment, or any other benefit” to someone else “as consideration, favor, or reward for any political activity or for the support of or opposition to any candidate or any political party in connection with any general or special election to any political office.” It is also illegal for a government official to use “his official authority for the purpose of interfering with, or affecting, the nomination or the election of any candidate” for Senate.",
+          "bias": "none"
+        },
+        {
+          "text": "While many have speculated that the White House offered to appoint Mr. Sestak as secretary of the Navy, Mr. Bauer said that was never the case.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House did not offer Mr. Sestak a full-time paid position because Mr. Emanuel wanted him to stay in the House rather than risk losing his seat, so he considered “uncompensated advisory board options.”",
+          "bias": "none"
+        },
+        {
+          "text": "The White House did not disclose what those options were, but people briefed on the matter said one option was an appointment to the president’s Intelligence Advisory Board, a panel of prominent Americans outside government who provide independent oversight of the nation’s spy apparatus and advise the president.",
+          "bias": "none"
+        },
+        {
+          "text": "But White House officials discovered that it would not work because Mr. Sestak could not serve on the board while still serving in Congress.",
+          "bias": "none"
+        },
+        {
+          "text": "In a statement Friday, Mr. Sestak said Mr. Clinton had conveyed Mr. Emanuel’s suggestion that he join a “presidential board” while remaining in the House, but he declined.",
+          "bias": "none"
+        },
+        {
+          "text": "“I told President Clinton that my only consideration in getting into the Senate race or not was whether it was the right thing to do for Pennsylvania working families and not any offer,” Mr. Sestak said.",
+          "bias": "none"
+        },
+        {
+          "text": "“The former president said he knew I’d say that, and the conversation moved on to other subjects.”",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Sestak first mentioned publicly in February that he had been offered a job but provided no details, and the White House for three months had refused to discuss it, generating intense criticism from Republicans who accused it of trying to bribe a congressman and deep consternation among Democrats who called on the administration to answer questions.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Mr. Emanuel was eager last summer to clear the way to this year’s Democratic Senate nomination for Mr. Specter, who had just left the Republican party, and to bolster Democrats’ majority in the Senate.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Sestak, a retired admiral and two-term House member, was already planning a run.",
+          "bias": "none"
+        },
+        {
+          "text": "In tapping Mr. Clinton as the go-between, Mr. Emanuel picked the party’s most prominent figure other than Mr. Obama and someone Mr. Sestak had worked for on the National Security Council in the 1990s.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Sestak endorsed Hillary Rodham Clinton against Mr. Obama in the 2008 presidential primaries, and Mr. Clinton was one of the first to call to congratulate him on his Senate victory last week.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Clinton was at the White House on Thursday to have lunch with Mr. Obama and join him in greeting the American men’s World Cup soccer team heading to South Africa.",
+          "bias": "none"
+        },
+        {
+          "text": "As chief of staff and previously as chairman of the Democratic Congressional Campaign Committee, Mr. Emanuel has not been shy about trying to steer party nominations to those he considers the stronger candidates.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House under Mr. Emanuel has also leaned on Gov.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "David Paterson of New York to drop out of this year’s gubernatorial race, which he eventually did under a cloud of scandal.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Emanuel’s deputy, Jim Messina, suggested a possible administration job to Andrew Romanoff to get him to not challenge Sen.",
+          "bias": "bias",
+          "bias_type": "lex"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "9fb5214f-563a-4fc5-b204-fac51cb2ca31",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "source": "fox",
+    "title": "White House Asked Bill Clinton to Urge Sestak to Drop Out of Senate Race",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"The White House asked former President Bill Clinton to talk to Rep.\", \"bias\": \"none\"},\n    {\"text\": \"Joe Sestak about the possibility of obtaining a senior position in the Obama administration if he would drop out of the Democratic primary race against establishment-backed Sen.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Arlen Specter, the Obama administration said in a report released Friday morning.\", \"bias\": \"none\"},\n    {\"text\": \"But the report, by White House Counsel Robert Bauer, concluded that \\\"allegations of improper conduct rest on factual errors and lack a basis in the law.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"Batting down allegations that the White House dangled the secretary of Navy position in front of Sestak, the report said that Sestak was offered executive branch positions on advisory boards that were uncompensated.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"One of the jobs Clinton specifically discussed with Sestak was the president's intelligence advisory board.\", \"bias\": \"none\"},\n    {\"text\": \"But a White House official said the plan always was for Sestak to remain in the House, and he couldn't have served in the House and on the president's intelligence advisory board.\", \"bias\": \"none\"},\n    {\"text\": \"The report also described the Clinton conversations as informal and not tied to any precise job offer since, as a former president, Clinton could not guarantee Sestak anything.\", \"bias\": \"none\"},\n    {\"text\": \"Clinton initiated conversations with Sestak at the behest of White House Chief of Staff Rahm Emanuel, who was Clinton's political director when he was president.\", \"bias\": \"none\"},\n    {\"text\": \"As president, Clinton promoted Sestak to vice admiral and made him his director of defense policy.\", \"bias\": \"none\"},\n    {\"text\": \"Sestak was also a loyal and tireless supporter of Hillary Clinton's run for the presidency in 2008.\", \"bias\": \"none\"},\n    {\"text\": \"At hastily arranged news conference Friday afternoon, Sestak said Clinton called him last summer to express concerns over his jumping into the Senate primary, and how his military background could help him leave a mark on the House.\", \"bias\": \"none\"},\n    {\"text\": \"Sestak said he almost interrupted Clinton to tell him Clinton that \\\"I am going to decide to get into this or not only depending upon what's good for Pennsylvania's working families and not an offer.\", \"bias\": \"none\"},\n    {\"text\": \"And he said 'I knew you'd say that,'\\\" before the conversation moved on to other subjects.\", \"bias\": \"none\"},\n    {\"text\": \"The White House report disputed any suggestion that there was \\\"impropriety\\\" in Clinton's discussion with Sestak over possible alternatives to his Senate candidacy.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"There have been numerous, reported instances in the past when prior administrations -- both Democratic and Republican, and motivated by the same goals -- discussed alternative paths to service for qualified individuals also considering campaigns for public office,\\\" the report read.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"Such discussions are fully consistent with the relevant law and ethical requirements.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"The report comes one day after President Obama insisted \\\"nothing improper\\\" happened with Sestak.\", \"bias\": \"none\"},\n    {\"text\": \"On that same day, Obama had lunch with Clinton.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"This is punishable by prison.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"This is a felony,\\\" said Rep.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Darrell Issa, R-Calif., who has been leading the charge for more details on the allegation.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"This is about the White House.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"This is not about Congressman Sestak,\\\" Issa said, adding that he wants to know what Clinton was empowered to say.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"They've answered a question and it begs many more answers,\\\" he said.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"We want elections not to be appointments.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Sestak's opponent in the general election for the Senate seat, Republican Pat Toomey, questioned why it took so long for this explanation.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"If this explanation is as innocent as it looks, I sure don't know why it took three months to say so,\\\" Toomey said in a statement.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"\\\"As I've said many times, this job offer issue is not my focus, and it's not where Pennsylvanians want the focus of the campaign to be.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"Critics say the Sestak job offer may have violated the part of the U.S. code that says: \\\"Whoever, directly or indirectly, promises any employment, position, compensation...appointment...provided for or made possible in whole or in part by any Act of Congress...to any person as consideration, favor, or reward for any political activity...or in connection with any primary election ...shall be fined under this title or imprisoned not more than one year, or both.\\\"\", \"bias\": \"bias\", \"bias_type\": \"inf\"}\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "The White House asked former President Bill Clinton to talk to Rep.",
+          "bias": "none"
+        },
+        {
+          "text": "Joe Sestak about the possibility of obtaining a senior position in the Obama administration if he would drop out of the Democratic primary race against establishment-backed Sen.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Arlen Specter, the Obama administration said in a report released Friday morning.",
+          "bias": "none"
+        },
+        {
+          "text": "But the report, by White House Counsel Robert Bauer, concluded that \"allegations of improper conduct rest on factual errors and lack a basis in the law.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Batting down allegations that the White House dangled the secretary of Navy position in front of Sestak, the report said that Sestak was offered executive branch positions on advisory boards that were uncompensated.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "One of the jobs Clinton specifically discussed with Sestak was the president's intelligence advisory board.",
+          "bias": "none"
+        },
+        {
+          "text": "But a White House official said the plan always was for Sestak to remain in the House, and he couldn't have served in the House and on the president's intelligence advisory board.",
+          "bias": "none"
+        },
+        {
+          "text": "The report also described the Clinton conversations as informal and not tied to any precise job offer since, as a former president, Clinton could not guarantee Sestak anything.",
+          "bias": "none"
+        },
+        {
+          "text": "Clinton initiated conversations with Sestak at the behest of White House Chief of Staff Rahm Emanuel, who was Clinton's political director when he was president.",
+          "bias": "none"
+        },
+        {
+          "text": "As president, Clinton promoted Sestak to vice admiral and made him his director of defense policy.",
+          "bias": "none"
+        },
+        {
+          "text": "Sestak was also a loyal and tireless supporter of Hillary Clinton's run for the presidency in 2008.",
+          "bias": "none"
+        },
+        {
+          "text": "At hastily arranged news conference Friday afternoon, Sestak said Clinton called him last summer to express concerns over his jumping into the Senate primary, and how his military background could help him leave a mark on the House.",
+          "bias": "none"
+        },
+        {
+          "text": "Sestak said he almost interrupted Clinton to tell him Clinton that \"I am going to decide to get into this or not only depending upon what's good for Pennsylvania's working families and not an offer.",
+          "bias": "none"
+        },
+        {
+          "text": "And he said 'I knew you'd say that,'\" before the conversation moved on to other subjects.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House report disputed any suggestion that there was \"impropriety\" in Clinton's discussion with Sestak over possible alternatives to his Senate candidacy.",
+          "bias": "none"
+        },
+        {
+          "text": "\"There have been numerous, reported instances in the past when prior administrations -- both Democratic and Republican, and motivated by the same goals -- discussed alternative paths to service for qualified individuals also considering campaigns for public office,\" the report read.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Such discussions are fully consistent with the relevant law and ethical requirements.\"",
+          "bias": "none"
+        },
+        {
+          "text": "The report comes one day after President Obama insisted \"nothing improper\" happened with Sestak.",
+          "bias": "none"
+        },
+        {
+          "text": "On that same day, Obama had lunch with Clinton.",
+          "bias": "none"
+        },
+        {
+          "text": "\"This is punishable by prison.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "This is a felony,\" said Rep.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Darrell Issa, R-Calif., who has been leading the charge for more details on the allegation.",
+          "bias": "none"
+        },
+        {
+          "text": "\"This is about the White House.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "This is not about Congressman Sestak,\" Issa said, adding that he wants to know what Clinton was empowered to say.",
+          "bias": "none"
+        },
+        {
+          "text": "\"They've answered a question and it begs many more answers,\" he said.",
+          "bias": "none"
+        },
+        {
+          "text": "\"We want elections not to be appointments.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Sestak's opponent in the general election for the Senate seat, Republican Pat Toomey, questioned why it took so long for this explanation.",
+          "bias": "none"
+        },
+        {
+          "text": "\"If this explanation is as innocent as it looks, I sure don't know why it took three months to say so,\" Toomey said in a statement.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "\"As I've said many times, this job offer issue is not my focus, and it's not where Pennsylvanians want the focus of the campaign to be.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Critics say the Sestak job offer may have violated the part of the U.S. code that says: \"Whoever, directly or indirectly, promises any employment, position, compensation...appointment...provided for or made possible in whole or in part by any Act of Congress...to any person as consideration, favor, or reward for any political activity...or in connection with any primary election ...shall be fined under this title or imprisoned not more than one year, or both.\"",
+          "bias": "bias",
+          "bias_type": "inf"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "333aa94a-629a-4025-9af2-40bdc51c5bf1",
+    "triplet_uuid": "38f7cbb7-5d6a-4c89-bcbd-8e164144172a",
+    "source": "hpo",
+    "title": "White House Asked Bill Clinton To Talk To Joe Sestak About Senate Run",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Rep.\", \"bias\": \"none\"},\n    {\"text\": \"Joe Sestak (D-Penn.) was offered a prominent but uncompensated, advisory position -- in the national security/foreign policy area -- if he declined to enter the Pennsylvania Senate primary race, a source with knowledge of the exchange said during a briefing on Friday morning.\", \"bias\": \"none\"},\n    {\"text\": \"The offer was made by White House Chief of Staff Rahm Emanuel through a prominent intermediary -- former President Bill Clinton -- during the months of June and July of 2009.\", \"bias\": \"none\"},\n    {\"text\": \"The White House initiated the conversation, which occurred over phone.\", \"bias\": \"none\"},\n    {\"text\": \"It would have allowed Sestak to remain in the House of Representatives while advising the president.\", \"bias\": \"none\"},\n    {\"text\": \"The source said it would not be surprising if more than one conversation took place, though there were no other intermediaries involved.\", \"bias\": \"none\"},\n    {\"text\": \"Sestak ultimately rejected the overture and went on to defeat incumbent Sen.\", \"bias\": \"none\"},\n    {\"text\": \"Arlen Specter (D-Penn) in the Democratic primary election earlier this month.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"By virtue of his career in public service, including distinguished military service, Congressman Sestak was viewed to be highly qualified to hold a range of advisory positions in which he could, while holding his House seat, have additional responsibilities of considerable potential interest to him and value to the Executive Branch,\\\" a memo detailing the administration's findings reads.\", \"bias\": \"none\"},\n    {\"text\": \"The account offered by the source was the most detailed to date from primary sources as to the conversations they had with Sestak regarding his entrance into the Pennsylvania race.\", \"bias\": \"none\"},\n    {\"text\": \"News of the Clinton conversation was first reported by Greg Sargent at The Plum Line.\", \"bias\": \"none\"},\n    {\"text\": \"The source challenged one major aspect of the story line, insisting that the White House never offered Sestak the job of Secretary of the Navy.\", \"bias\": \"none\"},\n    {\"text\": \"The offer for that position was made more than a month before -- on March 26, 2009 -- to Ray Mabus.\", \"bias\": \"none\"},\n    {\"text\": \"Administration officials had spent time and capital recruiting Senator Arlen Specter to switch parties and run for re-election as a Democrat.\", \"bias\": \"none\"},\n    {\"text\": \"Part of that arrangement entailed clearing the field for his nomination.\", \"bias\": \"none\"},\n    {\"text\": \"When Sestak began making overtures that he would run, the White House looked for ways to follow through on its promise.\", \"bias\": \"none\"},\n    {\"text\": \"What resulted were the informal conversation(s).\", \"bias\": \"none\"},\n    {\"text\": \"Since then, much intrigue has surrounded what conversations actually took place.\", \"bias\": \"none\"},\n    {\"text\": \"Sestak brought the issue to the surface when he alluded to a job offer early in his primary run.\", \"bias\": \"none\"},\n    {\"text\": \"But he refused to provide details, such as who approached him and what position was dangled in front of him.\", \"bias\": \"none\"},\n    {\"text\": \"The White House, when pressed on the matter, had been vague.\", \"bias\": \"none\"},\n    {\"text\": \"Press Secretary Robert Gibbs declined repeated attempts for comment before relaying to reporters that he and White House lawyers had looked into the matter and found it legally permissible.\", \"bias\": \"none\"},\n    {\"text\": \"Behind the scenes, White House Counsel Bob Bauer's office began investigating the matter when stories first surfaced.\", \"bias\": \"none\"},\n    {\"text\": \"The investigation was internal at first with the White House reaching conclusions at least two-and-a-half months ago.\", \"bias\": \"none\"},\n    {\"text\": \"As part of the process, however, Bauer also interviewed representatives for Sestak and Clinton -- in this case Sestak's brother and Doug Brand and Bruce Lindsey respectively.\", \"bias\": \"none\"},\n    {\"text\": \"The congressman and the former president were not contacted for Bauer's investigation.\", \"bias\": \"none\"},\n    {\"text\": \"The source insisted that no laws were broken in the process of offering the position, that the matter hardly rose to the level of political scandal -- suggesting that Republicans on the Hill were hoping to reap political benefits from the saga.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"It certainly wasn't historically unique.\", \"bias\": \"none\"},\n    {\"text\": \"As the Huffington Post reported on Thursday, various political historians and ethics lawyers have approached the Sestak news with yawns, noting that quid pro quos and backroom job offers are fairly common in administrations.\", \"bias\": \"none\"}\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Rep.",
+          "bias": "none"
+        },
+        {
+          "text": "Joe Sestak (D-Penn.) was offered a prominent but uncompensated, advisory position -- in the national security/foreign policy area -- if he declined to enter the Pennsylvania Senate primary race, a source with knowledge of the exchange said during a briefing on Friday morning.",
+          "bias": "none"
+        },
+        {
+          "text": "The offer was made by White House Chief of Staff Rahm Emanuel through a prominent intermediary -- former President Bill Clinton -- during the months of June and July of 2009.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House initiated the conversation, which occurred over phone.",
+          "bias": "none"
+        },
+        {
+          "text": "It would have allowed Sestak to remain in the House of Representatives while advising the president.",
+          "bias": "none"
+        },
+        {
+          "text": "The source said it would not be surprising if more than one conversation took place, though there were no other intermediaries involved.",
+          "bias": "none"
+        },
+        {
+          "text": "Sestak ultimately rejected the overture and went on to defeat incumbent Sen.",
+          "bias": "none"
+        },
+        {
+          "text": "Arlen Specter (D-Penn) in the Democratic primary election earlier this month.",
+          "bias": "none"
+        },
+        {
+          "text": "\"By virtue of his career in public service, including distinguished military service, Congressman Sestak was viewed to be highly qualified to hold a range of advisory positions in which he could, while holding his House seat, have additional responsibilities of considerable potential interest to him and value to the Executive Branch,\" a memo detailing the administration's findings reads.",
+          "bias": "none"
+        },
+        {
+          "text": "The account offered by the source was the most detailed to date from primary sources as to the conversations they had with Sestak regarding his entrance into the Pennsylvania race.",
+          "bias": "none"
+        },
+        {
+          "text": "News of the Clinton conversation was first reported by Greg Sargent at The Plum Line.",
+          "bias": "none"
+        },
+        {
+          "text": "The source challenged one major aspect of the story line, insisting that the White House never offered Sestak the job of Secretary of the Navy.",
+          "bias": "none"
+        },
+        {
+          "text": "The offer for that position was made more than a month before -- on March 26, 2009 -- to Ray Mabus.",
+          "bias": "none"
+        },
+        {
+          "text": "Administration officials had spent time and capital recruiting Senator Arlen Specter to switch parties and run for re-election as a Democrat.",
+          "bias": "none"
+        },
+        {
+          "text": "Part of that arrangement entailed clearing the field for his nomination.",
+          "bias": "none"
+        },
+        {
+          "text": "When Sestak began making overtures that he would run, the White House looked for ways to follow through on its promise.",
+          "bias": "none"
+        },
+        {
+          "text": "What resulted were the informal conversation(s).",
+          "bias": "none"
+        },
+        {
+          "text": "Since then, much intrigue has surrounded what conversations actually took place.",
+          "bias": "none"
+        },
+        {
+          "text": "Sestak brought the issue to the surface when he alluded to a job offer early in his primary run.",
+          "bias": "none"
+        },
+        {
+          "text": "But he refused to provide details, such as who approached him and what position was dangled in front of him.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House, when pressed on the matter, had been vague.",
+          "bias": "none"
+        },
+        {
+          "text": "Press Secretary Robert Gibbs declined repeated attempts for comment before relaying to reporters that he and White House lawyers had looked into the matter and found it legally permissible.",
+          "bias": "none"
+        },
+        {
+          "text": "Behind the scenes, White House Counsel Bob Bauer's office began investigating the matter when stories first surfaced.",
+          "bias": "none"
+        },
+        {
+          "text": "The investigation was internal at first with the White House reaching conclusions at least two-and-a-half months ago.",
+          "bias": "none"
+        },
+        {
+          "text": "As part of the process, however, Bauer also interviewed representatives for Sestak and Clinton -- in this case Sestak's brother and Doug Brand and Bruce Lindsey respectively.",
+          "bias": "none"
+        },
+        {
+          "text": "The congressman and the former president were not contacted for Bauer's investigation.",
+          "bias": "none"
+        },
+        {
+          "text": "The source insisted that no laws were broken in the process of offering the position, that the matter hardly rose to the level of political scandal -- suggesting that Republicans on the Hill were hoping to reap political benefits from the saga.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "It certainly wasn't historically unique.",
+          "bias": "none"
+        },
+        {
+          "text": "As the Huffington Post reported on Thursday, various political historians and ethics lawyers have approached the Sestak news with yawns, noting that quid pro quos and backroom job offers are fairly common in administrations.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "ae5c9925-6003-40b6-bff6-61e8cf269ed4",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "source": "nyt",
+    "title": "G.O.P. Seizes on Mosque Issue Ahead of Elections",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"WASHINGTON — Republican Congressional candidates on Monday intensified efforts to inject the divide over construction of an Islamic center near ground zero into the midterm campaigns while the Senate’s top Democrat said he objected to the mosque being built there.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Senator Harry Reid of Nevada, the Senate majority leader and a Democrat facing a difficult re-election fight, said through a spokesman that those who plan to erect the Islamic center should look elsewhere.\", \"bias\": \"none\"},\n    {\"text\": \"That separates Mr. Reid from President Obama’s support of the developers’ right to build the center.\", \"bias\": \"none\"},\n    {\"text\": \"“The First Amendment protects freedom of religion,” said Jim Manley, a top adviser to Mr. Reid.\", \"bias\": \"none\"},\n    {\"text\": \"“Senator Reid respects that but thinks that the mosque should be built someplace else.”\", \"bias\": \"none\"},\n    {\"text\": \"In a number of releases and statements, Republican House and Senate candidates challenged Democrats like Mr. Reid to make their positions clear on the construction of a mosque and community center about two blocks from the site of the attacks of Sept. 11, 2001, in New York City.\", \"bias\": \"none\"},\n    {\"text\": \"“Ground zero is hallowed ground to Americans,” Elliott Maynard, a Republican trying to unseat Representative Nick J. Rahall II, a Democrat, in West Virginia’s Third District, said in a typical statement.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"“Do you think the Muslims would allow a Jewish temple or Christian church to be built in Mecca?”\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Republicans said Mr. Obama’s defense of the right of the developers to pursue the project showed that he was out of touch with average Americans.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"“It is very troubling to see President Obama again turning a deaf ear to the thoughts and concerns of a majority of Americans,” said James Renacci, a Republican candidate in Ohio’s 16th District, who said people at a recent public meeting were furious about the mosque proposal.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The remarks were a rare instance in this campaign season when Republicans have strayed from a focus on economic issues in their push for substantial gains in the House and Senate in November.\", \"bias\": \"none\"},\n    {\"text\": \"The intensity of their attacks showed that they do not appear worried about the risk of being seen as intolerant or not supportive of the right to freedom of religion.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Some leading Democrats said it was the president’s role to stand up for constitutional rights in the mosque dispute.\", \"bias\": \"none\"},\n    {\"text\": \"Representative James E. Clyburn, the No. 3 House Democrat, said Monday that “articulating the constitutional principles” on which the country was founded and “calling for tolerance on the part of all of its people” were part of “a presidential act worth exercising.”\", \"bias\": \"none\"},\n    {\"text\": \"Privately, many Democrats were not pleased that the issue had been thrown into their laps during the summer recess as they believed they had been making inroads by talking about how some Republicans support privatizing Social Security.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"But strategists said Democrats could counter the Republican offensive by labeling the mosque dispute as a local issue and saying Democrats remain focused on the economy.\", \"bias\": \"none\"},\n    {\"text\": \"Some also said the White House should not have put lawmakers on the spot in the first place and could have been better prepared for the president’s statement, lining up religious and community leaders to offer support for the right to build the mosque and undermine Republican attacks.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Other Democrats said they did not see the fight resonating strongly outside New York and did not expect it to become a defining campaign issue.\", \"bias\": \"none\"},\n    {\"text\": \"Representative Jerrold Nadler, a Democrat who represents the district that includes ground zero, said he doubted that the fight over the mosque would inflict much damage on fellow Democrats in the November elections.\", \"bias\": \"none\"},\n    {\"text\": \"Mr. Nadler, whose view is that the developers were entitled to build the mosque at the selected location if they choose, said, “Ultimately I suspect that once this simmers down in a few weeks, people will realize that everybody’s liberty is at stake here.”\", \"bias\": \"none\"},\n    {\"text\": \"The planned community center, perhaps 15 stories tall, would be built in three adjacent buildings two blocks north of ground zero, though one building, owned by Consolidated Edison, has yet to be sold.\", \"bias\": \"none\"},\n    {\"text\": \"The other two are all but vacant now; worship services are already taking place in one of them.\", \"bias\": \"none\"},\n    {\"text\": \"The developer, Sharif el-Gamal, a real estate investor born in New York, has said the center would include meeting rooms, a prayer space, a 500-seat auditorium and a pool.\", \"bias\": \"none\"},\n    {\"text\": \"Two mosques, founded in 1970 and 1985, are already within several blocks of the proposed center.\", \"bias\": \"none\"},\n    {\"text\": \"They are so busy and crowded that a search was begun for more space.\", \"bias\": \"none\"},\n    {\"text\": \"Before Mr. Obama spoke out, leading Republican figures like Newt Gingrich, a former speaker of the House, and Sarah Palin, the party’s 2008 vice-presidential nominee, had been voicing opposition to the Islamic center.\", \"bias\": \"none\"},\n    {\"text\": \"That caused other Republicans to warn that the party risked a backlash and was alienating the nation’s Muslims.\", \"bias\": \"bias\", \"bias_type\": \"inf\"}\n  ],\n  \"article_bias\": \"neutral\"\n}\n```\n\nThe article maintains a neutral tone overall, but several sentences exhibit bias in the form of lexical choices or informational framing. The language used does not strongly favor either liberal or conservative perspectives, and the author presents a range of views from both sides of the debate. Therefore, the article bias is classified as neutral.",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "WASHINGTON — Republican Congressional candidates on Monday intensified efforts to inject the divide over construction of an Islamic center near ground zero into the midterm campaigns while the Senate’s top Democrat said he objected to the mosque being built there.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Senator Harry Reid of Nevada, the Senate majority leader and a Democrat facing a difficult re-election fight, said through a spokesman that those who plan to erect the Islamic center should look elsewhere.",
+          "bias": "none"
+        },
+        {
+          "text": "That separates Mr. Reid from President Obama’s support of the developers’ right to build the center.",
+          "bias": "none"
+        },
+        {
+          "text": "“The First Amendment protects freedom of religion,” said Jim Manley, a top adviser to Mr. Reid.",
+          "bias": "none"
+        },
+        {
+          "text": "“Senator Reid respects that but thinks that the mosque should be built someplace else.”",
+          "bias": "none"
+        },
+        {
+          "text": "In a number of releases and statements, Republican House and Senate candidates challenged Democrats like Mr. Reid to make their positions clear on the construction of a mosque and community center about two blocks from the site of the attacks of Sept. 11, 2001, in New York City.",
+          "bias": "none"
+        },
+        {
+          "text": "“Ground zero is hallowed ground to Americans,” Elliott Maynard, a Republican trying to unseat Representative Nick J. Rahall II, a Democrat, in West Virginia’s Third District, said in a typical statement.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“Do you think the Muslims would allow a Jewish temple or Christian church to be built in Mecca?”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Republicans said Mr. Obama’s defense of the right of the developers to pursue the project showed that he was out of touch with average Americans.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "“It is very troubling to see President Obama again turning a deaf ear to the thoughts and concerns of a majority of Americans,” said James Renacci, a Republican candidate in Ohio’s 16th District, who said people at a recent public meeting were furious about the mosque proposal.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The remarks were a rare instance in this campaign season when Republicans have strayed from a focus on economic issues in their push for substantial gains in the House and Senate in November.",
+          "bias": "none"
+        },
+        {
+          "text": "The intensity of their attacks showed that they do not appear worried about the risk of being seen as intolerant or not supportive of the right to freedom of religion.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Some leading Democrats said it was the president’s role to stand up for constitutional rights in the mosque dispute.",
+          "bias": "none"
+        },
+        {
+          "text": "Representative James E. Clyburn, the No. 3 House Democrat, said Monday that “articulating the constitutional principles” on which the country was founded and “calling for tolerance on the part of all of its people” were part of “a presidential act worth exercising.”",
+          "bias": "none"
+        },
+        {
+          "text": "Privately, many Democrats were not pleased that the issue had been thrown into their laps during the summer recess as they believed they had been making inroads by talking about how some Republicans support privatizing Social Security.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "But strategists said Democrats could counter the Republican offensive by labeling the mosque dispute as a local issue and saying Democrats remain focused on the economy.",
+          "bias": "none"
+        },
+        {
+          "text": "Some also said the White House should not have put lawmakers on the spot in the first place and could have been better prepared for the president’s statement, lining up religious and community leaders to offer support for the right to build the mosque and undermine Republican attacks.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Other Democrats said they did not see the fight resonating strongly outside New York and did not expect it to become a defining campaign issue.",
+          "bias": "none"
+        },
+        {
+          "text": "Representative Jerrold Nadler, a Democrat who represents the district that includes ground zero, said he doubted that the fight over the mosque would inflict much damage on fellow Democrats in the November elections.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Nadler, whose view is that the developers were entitled to build the mosque at the selected location if they choose, said, “Ultimately I suspect that once this simmers down in a few weeks, people will realize that everybody’s liberty is at stake here.”",
+          "bias": "none"
+        },
+        {
+          "text": "The planned community center, perhaps 15 stories tall, would be built in three adjacent buildings two blocks north of ground zero, though one building, owned by Consolidated Edison, has yet to be sold.",
+          "bias": "none"
+        },
+        {
+          "text": "The other two are all but vacant now; worship services are already taking place in one of them.",
+          "bias": "none"
+        },
+        {
+          "text": "The developer, Sharif el-Gamal, a real estate investor born in New York, has said the center would include meeting rooms, a prayer space, a 500-seat auditorium and a pool.",
+          "bias": "none"
+        },
+        {
+          "text": "Two mosques, founded in 1970 and 1985, are already within several blocks of the proposed center.",
+          "bias": "none"
+        },
+        {
+          "text": "They are so busy and crowded that a search was begun for more space.",
+          "bias": "none"
+        },
+        {
+          "text": "Before Mr. Obama spoke out, leading Republican figures like Newt Gingrich, a former speaker of the House, and Sarah Palin, the party’s 2008 vice-presidential nominee, had been voicing opposition to the Islamic center.",
+          "bias": "none"
+        },
+        {
+          "text": "That caused other Republicans to warn that the party risked a backlash and was alienating the nation’s Muslims.",
+          "bias": "bias",
+          "bias_type": "inf"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "bfb98e01-ba5d-4bef-adb7-01415979a4b8",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "source": "fox",
+    "title": "Reid Breaks With Obama Over Proposed Ground Zero Mosque",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Senate Majority Leader Harry Reid broke with President Obama Monday over the proposed mosque near Ground Zero, saying the controversial Islamic center should be built elsewhere.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Spokesman Jim Manley said in a written statement that Republicans should show their sincerity about sensitivity to Sept.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"11 survivors by backing a high-profile bill to grant health benefits to rescue workers, something that stalled in Congress earlier this month.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But at the same time, Manley put Reid on the record for the first time in the hyper-sensitive and volatile mosque debate.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\\"The First Amendment protects freedom of religion,\\\" Manley said.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"Sen. Reid respects that but thinks that the mosque should be built someplace else.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Reid's comments added another high-profile voice to the mosque controversy.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The president first stepped into the fray Friday when he appeared to endorse the Park 51 project during a Ramadan dinner at the White House.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"The next day, he clarified that he was merely commenting on fundamental religious freedoms -- not specifically on the \\\"wisdom\\\" of the mosque project.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Then White House spokesman Bill Burton said Obama was not \\\"backing off\\\" his original remarks.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The prolonged presidential explanation elevated the issue beyond a local dispute and hurled it into the political arena.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Republicans have since both criticized his position and pressured other Democrats to take a stand on the politically sticky issue, one where charges of insensitivity have flown on both sides.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The White House claimed Monday that politics were not at play in Obama's decision to dive into the controversy over a planned mosque near Ground Zero.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Burton said that he \\\"can't speak to the politics of what the Republicans are doing,\\\" but the president was not looking to make political hay with his remarks, which he reportedly considered carefully before delivering them at a White House dinner on Friday night.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"The president didn't do this because of the politics. He spoke about it because he feels he has an obligation as the president to address this,\\\" Burton said.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But the issue was quickly feeding fuel to Republicans looking to corner Democrats into taking a position on the issue -- something they were able to avoid before the president spoke up.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Though Reid is on the record, the National Republican Senatorial Committee on Monday targeted Sen. Charles Schumer, D-N.Y., for not speaking out on the issue.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Citing an article that said the normally chatty Schumer would not comment on the mosque remarks, the NRSC said Schumer should weigh in.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"It's a remarkable commentary on the most camera-friendly senator that he's more than happy to weigh-in on caffeinated malt beverages, but he won't take a public position on the construction of a mosque near Ground Zero,\\\" NRSC spokesman Brian Walsh said in a written statement.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\\"It's time for Chuck Schumer to stand up and be counted -- does he stand with President Obama in support of this mosque or does he stand with the countless 9/11 families who believe its location is inappropriate?\\\" Walsh asked.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Walsh also suggested Reid would suffer politically from his allegiance to Obama on other issues, despite his stance on the mosque.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"While it's commendable that Senator Reid now agrees with Republican Sharron Angle that we should respect the wishes of 9/11 families, it's regrettable that he hasn't demonstrated this same independence from President Obama on the critical issues facing America during the last 19 months,\\\" he said.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Rep. Peter King, R-N.Y., who opposes the mosque project, said Monday that the White House softened Obama's original comments because it probably heard \\\"pushback\\\" from other Democrats.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"He said Obama was \\\"clearly\\\" taking a side on the issue no matter what he claims.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\\"Everyone says as far as I know that the Muslim community has the right to build a mosque. The whole question is whether they should or not,\\\" he told Fox News.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Senate Majority Leader Harry Reid broke with President Obama Monday over the proposed mosque near Ground Zero, saying the controversial Islamic center should be built elsewhere.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Spokesman Jim Manley said in a written statement that Republicans should show their sincerity about sensitivity to Sept.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "11 survivors by backing a high-profile bill to grant health benefits to rescue workers, something that stalled in Congress earlier this month.",
+          "bias": "none"
+        },
+        {
+          "text": "But at the same time, Manley put Reid on the record for the first time in the hyper-sensitive and volatile mosque debate.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"The First Amendment protects freedom of religion,\" Manley said.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Sen. Reid respects that but thinks that the mosque should be built someplace else.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Reid's comments added another high-profile voice to the mosque controversy.",
+          "bias": "none"
+        },
+        {
+          "text": "The president first stepped into the fray Friday when he appeared to endorse the Park 51 project during a Ramadan dinner at the White House.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "The next day, he clarified that he was merely commenting on fundamental religious freedoms -- not specifically on the \"wisdom\" of the mosque project.",
+          "bias": "none"
+        },
+        {
+          "text": "Then White House spokesman Bill Burton said Obama was not \"backing off\" his original remarks.",
+          "bias": "none"
+        },
+        {
+          "text": "The prolonged presidential explanation elevated the issue beyond a local dispute and hurled it into the political arena.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Republicans have since both criticized his position and pressured other Democrats to take a stand on the politically sticky issue, one where charges of insensitivity have flown on both sides.",
+          "bias": "none"
+        },
+        {
+          "text": "The White House claimed Monday that politics were not at play in Obama's decision to dive into the controversy over a planned mosque near Ground Zero.",
+          "bias": "none"
+        },
+        {
+          "text": "Burton said that he \"can't speak to the politics of what the Republicans are doing,\" but the president was not looking to make political hay with his remarks, which he reportedly considered carefully before delivering them at a White House dinner on Friday night.",
+          "bias": "none"
+        },
+        {
+          "text": "\"The president didn't do this because of the politics. He spoke about it because he feels he has an obligation as the president to address this,\" Burton said.",
+          "bias": "none"
+        },
+        {
+          "text": "But the issue was quickly feeding fuel to Republicans looking to corner Democrats into taking a position on the issue -- something they were able to avoid before the president spoke up.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Though Reid is on the record, the National Republican Senatorial Committee on Monday targeted Sen. Charles Schumer, D-N.Y., for not speaking out on the issue.",
+          "bias": "none"
+        },
+        {
+          "text": "Citing an article that said the normally chatty Schumer would not comment on the mosque remarks, the NRSC said Schumer should weigh in.",
+          "bias": "none"
+        },
+        {
+          "text": "\"It's a remarkable commentary on the most camera-friendly senator that he's more than happy to weigh-in on caffeinated malt beverages, but he won't take a public position on the construction of a mosque near Ground Zero,\" NRSC spokesman Brian Walsh said in a written statement.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"It's time for Chuck Schumer to stand up and be counted -- does he stand with President Obama in support of this mosque or does he stand with the countless 9/11 families who believe its location is inappropriate?\" Walsh asked.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Walsh also suggested Reid would suffer politically from his allegiance to Obama on other issues, despite his stance on the mosque.",
+          "bias": "none"
+        },
+        {
+          "text": "\"While it's commendable that Senator Reid now agrees with Republican Sharron Angle that we should respect the wishes of 9/11 families, it's regrettable that he hasn't demonstrated this same independence from President Obama on the critical issues facing America during the last 19 months,\" he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Rep. Peter King, R-N.Y., who opposes the mosque project, said Monday that the White House softened Obama's original comments because it probably heard \"pushback\" from other Democrats.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "He said Obama was \"clearly\" taking a side on the issue no matter what he claims.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"Everyone says as far as I know that the Muslim community has the right to build a mosque. The whole question is whether they should or not,\" he told Fox News.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "fb62ca48-9a76-4321-b2be-f13ea6c0100b",
+    "triplet_uuid": "45bd61bc-c356-4450-9e3a-cbfc862b09fd",
+    "source": "hpo",
+    "title": "Reid: Mosque Should Be Built Someplace Else",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"President Barack Obama's endorsement of the \\\"Ground Zero mosque\\\" during a speech on Friday night spurred some hope among supporters that a forceful case could be made for both the project's constitutionality and its larger geopolitical impact.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"That hope was short-lived.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"By Saturday, the president clarified that he was not speaking about the \\\"wisdom\\\" of the Islamic cultural center per se, just the right of the group to build the Cordoba House in downtown Manhattan.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"And on Monday the highest-ranking Democrat in the Senate officially came out against construction of the mosque in its current location\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"The First Amendment protects freedom of religion,\\\" reads a statement from Senate Majority Leader Harry Reid's office (D-Nev.).\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"Senator Reid respects that but thinks that the mosque should be built someplace else.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"If the Republicans are being sincere, they would help us pass this long overdue bill to help the first responders whose health and livelihoods have been devastated because of their bravery on 911, rather than continuing to block this much-needed legislation.\\\"\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Combined, Obama's clarification and Reid's opposition represent a double dose of bad news for progressives and even Republicans who believed that a strong case could be made in favor of Cordoba House.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"If anything, it's clearer now than it was last week (when Democrats were mostly silent on the matter) how deeply the party just wants this entire issue to go away.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Reid, after all, only issued the above statement after his Republican opponents began hitting him for going silent on the matter.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    }\n  ],\n  \"article_bias\": \"liberal\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "President Barack Obama's endorsement of the \"Ground Zero mosque\" during a speech on Friday night spurred some hope among supporters that a forceful case could be made for both the project's constitutionality and its larger geopolitical impact.",
+          "bias": "none"
+        },
+        {
+          "text": "That hope was short-lived.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "By Saturday, the president clarified that he was not speaking about the \"wisdom\" of the Islamic cultural center per se, just the right of the group to build the Cordoba House in downtown Manhattan.",
+          "bias": "none"
+        },
+        {
+          "text": "And on Monday the highest-ranking Democrat in the Senate officially came out against construction of the mosque in its current location",
+          "bias": "none"
+        },
+        {
+          "text": "\"The First Amendment protects freedom of religion,\" reads a statement from Senate Majority Leader Harry Reid's office (D-Nev.).",
+          "bias": "none"
+        },
+        {
+          "text": "\"Senator Reid respects that but thinks that the mosque should be built someplace else.",
+          "bias": "none"
+        },
+        {
+          "text": "If the Republicans are being sincere, they would help us pass this long overdue bill to help the first responders whose health and livelihoods have been devastated because of their bravery on 911, rather than continuing to block this much-needed legislation.\"",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Combined, Obama's clarification and Reid's opposition represent a double dose of bad news for progressives and even Republicans who believed that a strong case could be made in favor of Cordoba House.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "If anything, it's clearer now than it was last week (when Democrats were mostly silent on the matter) how deeply the party just wants this entire issue to go away.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Reid, after all, only issued the above statement after his Republican opponents began hitting him for going silent on the matter.",
+          "bias": "bias",
+          "bias_type": "inf"
+        }
+      ],
+      "article_bias": "liberal"
+    }
+  },
+  {
+    "uuid": "f462327d-7021-486b-a262-a1d2ffc4bc25",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "source": "fox",
+    "title": "N.C. Congressman Apologizes for Physical Confrontation With Man in Washington",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Three days after an Internet video surfaced showing North Carolina Rep.\", \"bias\": \"none\"},\n    {\"text\": \"Bob Etheridge in a physical confrontation with a young man, the lawmaker said he is \\\"profoundly\\\" sorry for the tussle on a Washington street.\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge, a Democrat, is seen in an amateur video grabbing the wrist and neck of an unidentified young man after the man approached the congressman and asked if he supported the \\\"Obama agenda.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"\\\"No matter how partisan and no matter how difficult things get sometimes, that's no excuse for my response,\\\" he added, shortly after releasing a written statement in which he said he \\\"profoundly\\\" regrets the incident.\", \"bias\": \"none\"},\n    {\"text\": \"The video, posted to YouTube last Friday, shows the man, who appears to be in his early 20s and who identifies himself as a student, approaching Etheridge on the sidewalk.\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge is then seen trying to snatch a cell phone camera out of the student's hands.\", \"bias\": \"none\"},\n    {\"text\": \"He then grabs the man's wrist and refuses to let go.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"Who are you!\\\" the seven-term congressman demands.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"Tell me who you are ...\", \"bias\": \"none\"},\n    {\"text\": \"I have a right to know who you are.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"Another man, not seen on camera, then tells Etheridge, \\\"We're just here for a project.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"When the man asks Etheridge to \\\"please let go of me,\\\" the congressman then grabs him by the neck.\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge told reporters that he hasn't apologized to the young men involved because \\\"I dont know who they are.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"\\\"I would if I knew who they were,\\\" he said.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"I've been spat at, pushed and threatened before but that's no excuse,\\\" he added, saying that the incident occurred after a \\\"long day.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"\\\"His conduct is unbecoming of a member of Congress.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"It's bad enough that he's joined Obama's assault on North Carolina jobs, but his physical assault on a college student goes beyond the pale.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Mike Flynn, a conservative blogger for biggovernment.com, wrote that the confrontation occurred last week outside a fundraiser headlined by House Speaker Nancy Pelosi.\", \"bias\": \"none\"},\n    {\"text\": \"The video, which was posted on YouTube by \\\"DCCameraGuy,\\\" does not reveal the identity of the men making the tape.\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge, who has represented North Carolina's 2nd Congressional District since 1997, is running for re-election against Republican Renee Ellmers, a registered nurse, in November.\", \"bias\": \"none\"},\n    {\"text\": \"Political observers have predicted that the 68-year-old congressman will likely hold on to his seat.\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge, a member of the House Ways and Means and Budget committees, voted in favor of President Obama's health care overhaul legislation as well as the Democratic climate change bill known by opponents as cap-and-trade.\", \"bias\": \"none\"}\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Three days after an Internet video surfaced showing North Carolina Rep.",
+          "bias": "none"
+        },
+        {
+          "text": "Bob Etheridge in a physical confrontation with a young man, the lawmaker said he is \"profoundly\" sorry for the tussle on a Washington street.",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge, a Democrat, is seen in an amateur video grabbing the wrist and neck of an unidentified young man after the man approached the congressman and asked if he supported the \"Obama agenda.\"",
+          "bias": "none"
+        },
+        {
+          "text": "\"No matter how partisan and no matter how difficult things get sometimes, that's no excuse for my response,\" he added, shortly after releasing a written statement in which he said he \"profoundly\" regrets the incident.",
+          "bias": "none"
+        },
+        {
+          "text": "The video, posted to YouTube last Friday, shows the man, who appears to be in his early 20s and who identifies himself as a student, approaching Etheridge on the sidewalk.",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge is then seen trying to snatch a cell phone camera out of the student's hands.",
+          "bias": "none"
+        },
+        {
+          "text": "He then grabs the man's wrist and refuses to let go.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Who are you!\" the seven-term congressman demands.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Tell me who you are ...",
+          "bias": "none"
+        },
+        {
+          "text": "I have a right to know who you are.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Another man, not seen on camera, then tells Etheridge, \"We're just here for a project.\"",
+          "bias": "none"
+        },
+        {
+          "text": "When the man asks Etheridge to \"please let go of me,\" the congressman then grabs him by the neck.",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge told reporters that he hasn't apologized to the young men involved because \"I dont know who they are.\"",
+          "bias": "none"
+        },
+        {
+          "text": "\"I would if I knew who they were,\" he said.",
+          "bias": "none"
+        },
+        {
+          "text": "\"I've been spat at, pushed and threatened before but that's no excuse,\" he added, saying that the incident occurred after a \"long day.\"",
+          "bias": "none"
+        },
+        {
+          "text": "\"His conduct is unbecoming of a member of Congress.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "It's bad enough that he's joined Obama's assault on North Carolina jobs, but his physical assault on a college student goes beyond the pale.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mike Flynn, a conservative blogger for biggovernment.com, wrote that the confrontation occurred last week outside a fundraiser headlined by House Speaker Nancy Pelosi.",
+          "bias": "none"
+        },
+        {
+          "text": "The video, which was posted on YouTube by \"DCCameraGuy,\" does not reveal the identity of the men making the tape.",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge, who has represented North Carolina's 2nd Congressional District since 1997, is running for re-election against Republican Renee Ellmers, a registered nurse, in November.",
+          "bias": "none"
+        },
+        {
+          "text": "Political observers have predicted that the 68-year-old congressman will likely hold on to his seat.",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge, a member of the House Ways and Means and Budget committees, voted in favor of President Obama's health care overhaul legislation as well as the Democratic climate change bill known by opponents as cap-and-trade.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "44c70e9c-3ff8-49b2-88a3-ce22bba21449",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "source": "nyt",
+    "title": "Etheridge, Caught on Video, Apologizes ",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck \\u2013 as a video camera rolled \\u2013 as the man tried to ask him whether he supports President Obama\\u2019s agenda.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cI deeply and profoundly regret my reaction and I apologize to all involved,\\u201d Mr. Etheridge said in a statement.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cThroughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"No matter how intrusive and partisan our politics can become, this does not justify a poor response.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He added, \\u201cI have and I will always work to promote a civil public discourse.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: \\u201cHi, Congressman.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"How are you?\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Do you fully support the Obama agenda?\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"After a few seconds, the congressman grabs the camera and the young man.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cTell me who you are,\\u201d Mr. Etheridge said.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cTell me who you are.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The young man is not identified in the video, which was made last week.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A second person accompanying him pulled out another camera to record the congressman\\u2019s actions.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"It was circulated by the National Republican Congressional Committee.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cBob Etheridge has lost it,\\u201d said Jon Thompson, a Republican spokesman.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"\\u201cHis conduct is unbecoming of a member of Congress.\\u201d\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Vice President Joseph R.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Representative Bob Etheridge, Democrat of North Carolina, issued an apology on Monday for grabbing a young man by the hand, arm and neck – as a video camera rolled – as the man tried to ask him whether he supports President Obama’s agenda.",
+          "bias": "none"
+        },
+        {
+          "text": "“I deeply and profoundly regret my reaction and I apologize to all involved,” Mr. Etheridge said in a statement.",
+          "bias": "none"
+        },
+        {
+          "text": "“Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect.",
+          "bias": "none"
+        },
+        {
+          "text": "No matter how intrusive and partisan our politics can become, this does not justify a poor response.”",
+          "bias": "none"
+        },
+        {
+          "text": "He added, “I have and I will always work to promote a civil public discourse.”",
+          "bias": "none"
+        },
+        {
+          "text": "A young man, dressed in a jacket and tie, approached the congressman on a sidewalk, saying: “Hi, Congressman.",
+          "bias": "none"
+        },
+        {
+          "text": "How are you?",
+          "bias": "none"
+        },
+        {
+          "text": "Do you fully support the Obama agenda?”",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Etheridge, a seven-term House member, can be seen on the video repeatedly asking the young man to identify himself.",
+          "bias": "none"
+        },
+        {
+          "text": "After a few seconds, the congressman grabs the camera and the young man.",
+          "bias": "none"
+        },
+        {
+          "text": "“Tell me who you are,” Mr. Etheridge said.",
+          "bias": "none"
+        },
+        {
+          "text": "“Tell me who you are.”",
+          "bias": "none"
+        },
+        {
+          "text": "The young man is not identified in the video, which was made last week.",
+          "bias": "none"
+        },
+        {
+          "text": "A second person accompanying him pulled out another camera to record the congressman’s actions.",
+          "bias": "none"
+        },
+        {
+          "text": "The video received widespread attention on Monday after it was posted on the Web site of Andrew Breitbart, a conservative Web publisher and former editor of The Drudge Report.",
+          "bias": "none"
+        },
+        {
+          "text": "It was circulated by the National Republican Congressional Committee.",
+          "bias": "none"
+        },
+        {
+          "text": "“Bob Etheridge has lost it,” said Jon Thompson, a Republican spokesman.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“His conduct is unbecoming of a member of Congress.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Etheridge, who represents a conservative district south of Raleigh, faces a re-election challenge, but his race is not among the top Republican targets in the country.",
+          "bias": "none"
+        },
+        {
+          "text": "He won two years ago by 36 percentage points, and Mr. Obama carried his district by 6 percent.",
+          "bias": "none"
+        },
+        {
+          "text": "Vice President Joseph R.",
+          "bias": "none"
+        },
+        {
+          "text": "Biden Jr. resumed the White House campaign for gun control on Tuesday by reporting on executive action taken unilaterally by the administration and pressing Congress to take up legislation again.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "a5cb6419-2bb9-4af3-8046-96637f050cd9",
+    "triplet_uuid": "6b541575-99b1-40d2-8730-9bb868ee38ed",
+    "source": "hpo",
+    "title": "Bob Etheridge Attacks Student: North Carolina Congressman Gets Rough With Interviewer",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Rep.\", \"bias\": \"none\"},\n    {\"text\": \"Bob Etheridge (D-N.C.) appeared unreceptive to the question of an anonymous reporter this weekend, when he grabbed the self-identified \\u201cstudent\\u201d after he asked the congressman if he \\u201cfully supported the Obama agenda.\\u201d\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"In the video, the North Carolina lawmaker is seen approaching the camera, while the reporter asks, \\u201cHi, Congressman.\", \"bias\": \"none\"},\n    {\"text\": \"How are you?\", \"bias\": \"none\"},\n    {\"text\": \"Do you fully support the Obama agenda?\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"Etheridge appears visibly irritated and immediately asks, \\u201cwho are you?\\u201d before knocking the interviewer\\u2019s camera to the ground.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"In the next shot, Etheridge grabs the reporter\\u2019s wrist and continually asks him to identify himself.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The cameraman replies, \\u201cwe\\u2019re just here for a project...we\\u2019re just students.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"Over at Big Government, a post accompanying the video provides the following commentary on the encounter:\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cExpect more of this.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"A hard, progressive left captured the Democrat majority in Congress and forced them to enact a fantasy grab-bag of legislation that is increasingly unpopular with the American public.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"We\\u2019re on the cusp of a deeper recession, millions of unemployed Americans have no prospect for work, taxes are about to spike higher and we\\u2019ve maxed out the national credit card.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"The Democrats were given a chance to run government and they\\u2019ve only succeeded in running it into the ground.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Let\\u2019s recap what we saw on this video.\", \"bias\": \"none\"},\n    {\"text\": \"A sitting Congressman-a presumed living extension of James Madison and other founding fathers-was asked on a public street whether he supported the President\\u2019s agenda.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"His response was to hit away a video camera and assault a student.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The age of Pericles this ain\\u2019t.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"It is going to be a long, hot summer.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"But, you\\u2019ve been given a target.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Act accordingly.\\u201d\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Mediaite, in a response to the Big Government post, writes about the problems with anonymous inflammatory assault interviews, and argues that it might be this new brand of \\u201cjournalism\\u201d that has Etheridge on edge:\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cNow, Etheridge\\u2019s actions are only partially defensible.\", \"bias\": \"none\"},\n    {\"text\": \"He need not have gotten physical with the students who asked him the provocative question regarding his support of the \\u201cObama Agenda\\u201d (honestly, that sort of opening question is straight from the Jason Mattera school of inflammatory interview techniques.)\", \"bias\": \"none\"},\n    {\"text\": \"But little is known about these \\u201cstudents.\\u201d The YouTube video is published under an account titled TonyManization, and even more damning is that the faces of the individuals asking the Congressman questions are blurred out.\", \"bias\": \"none\"},\n    {\"text\": \"Hmmm...nothing like the courage of the anonymous protester.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Which brings us back to Etheridge\\u2019s response.\", \"bias\": \"none\"},\n    {\"text\": \"Yeah - he comes off as a jerk, but...when in Rome.\", \"bias\": \"none\"},\n    {\"text\": \"It will be interesting to follow how this story plays out in the news media.\", \"bias\": \"none\"},\n    {\"text\": \"Will it be a big story?\", \"bias\": \"none\"}\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Rep.",
+          "bias": "none"
+        },
+        {
+          "text": "Bob Etheridge (D-N.C.) appeared unreceptive to the question of an anonymous reporter this weekend, when he grabbed the self-identified “student” after he asked the congressman if he “fully supported the Obama agenda.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "In the video, the North Carolina lawmaker is seen approaching the camera, while the reporter asks, “Hi, Congressman.",
+          "bias": "none"
+        },
+        {
+          "text": "How are you?",
+          "bias": "none"
+        },
+        {
+          "text": "Do you fully support the Obama agenda?”",
+          "bias": "none"
+        },
+        {
+          "text": "Etheridge appears visibly irritated and immediately asks, “who are you?” before knocking the interviewer’s camera to the ground.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "In the next shot, Etheridge grabs the reporter’s wrist and continually asks him to identify himself.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The cameraman replies, “we’re just here for a project...we’re just students.”",
+          "bias": "none"
+        },
+        {
+          "text": "Over at Big Government, a post accompanying the video provides the following commentary on the encounter:",
+          "bias": "none"
+        },
+        {
+          "text": "“Expect more of this.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "A hard, progressive left captured the Democrat majority in Congress and forced them to enact a fantasy grab-bag of legislation that is increasingly unpopular with the American public.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "We’re on the cusp of a deeper recession, millions of unemployed Americans have no prospect for work, taxes are about to spike higher and we’ve maxed out the national credit card.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "The Democrats were given a chance to run government and they’ve only succeeded in running it into the ground.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Let’s recap what we saw on this video.",
+          "bias": "none"
+        },
+        {
+          "text": "A sitting Congressman-a presumed living extension of James Madison and other founding fathers-was asked on a public street whether he supported the President’s agenda.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "His response was to hit away a video camera and assault a student.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The age of Pericles this ain’t.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "It is going to be a long, hot summer.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "But, you’ve been given a target.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Act accordingly.”",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Mediaite, in a response to the Big Government post, writes about the problems with anonymous inflammatory assault interviews, and argues that it might be this new brand of “journalism” that has Etheridge on edge:",
+          "bias": "none"
+        },
+        {
+          "text": "“Now, Etheridge’s actions are only partially defensible.",
+          "bias": "none"
+        },
+        {
+          "text": "He need not have gotten physical with the students who asked him the provocative question regarding his support of the “Obama Agenda” (honestly, that sort of opening question is straight from the Jason Mattera school of inflammatory interview techniques.)",
+          "bias": "none"
+        },
+        {
+          "text": "But little is known about these “students.” The YouTube video is published under an account titled TonyManization, and even more damning is that the faces of the individuals asking the Congressman questions are blurred out.",
+          "bias": "none"
+        },
+        {
+          "text": "Hmmm...nothing like the courage of the anonymous protester.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Which brings us back to Etheridge’s response.",
+          "bias": "none"
+        },
+        {
+          "text": "Yeah - he comes off as a jerk, but...when in Rome.",
+          "bias": "none"
+        },
+        {
+          "text": "It will be interesting to follow how this story plays out in the news media.",
+          "bias": "none"
+        },
+        {
+          "text": "Will it be a big story?",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "40b85964-da38-43b1-82e3-74327c79cb24",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "source": "fox",
+    "title": "Glenn Beck Rips Progressivism at CPAC",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Glenn Beck Rips Progressivism at CPAC\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Fox News host Glenn Beck, armed with his trademark chalkboard, blamed \\\"progressivism\\\" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.\", \"bias\": \"none\"},\n    {\"text\": \"Beck wrote \\\"Progressivism\\\" on it to underscore his belief in what America is suffering from.\", \"bias\": \"none\"},\n    {\"text\": \"When Beck asked what America is suffering from, someone shouted \\\"President Obama,\\\" though Beck, an outspoken critic of the president, said it's \\\"not that simple.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Beck rejected the notion that the Republican Party should expand its tent to include progressives.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"What is this?\", \"bias\": \"none\"},\n    {\"text\": \"A circus?\\\" he said, drawing laughter.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"America is not a clown show.\", \"bias\": \"none\"},\n    {\"text\": \"America is an idea that sets people free.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Opening up about his troubled past, Beck told the crowd, \\\"People need to understand that life is not fair.\", \"bias\": \"none\"},\n    {\"text\": \"The bad guy sometimes wins.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.\", \"bias\": \"none\"},\n    {\"text\": \"But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.\", \"bias\": \"none\"},\n    {\"text\": \"The project inspired a major march in Washington in September.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"This is how is America should be,\\\" said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"People of every race, political affiliation, religion came together for different reasons.\", \"bias\": \"none\"},\n    {\"text\": \"She was at CPAC to see Beck and called him a \\\"relatable ...\", \"bias\": \"none\"},\n    {\"text\": \"everyday guy.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"\\\"None of this would have happened without Glenn,\\\" she said.\", \"bias\": \"bias\", \"bias_type\": \"lex\"}\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Glenn Beck Rips Progressivism at CPAC",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Fox News host Glenn Beck, armed with his trademark chalkboard, blamed \"progressivism\" for America's problems Saturday in his keynote speech that brought the annual Conservative Political Action Conference to a close.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The chalkboard, a prop that he uses frequently on his top-rated show, brought the audience to its feet.",
+          "bias": "none"
+        },
+        {
+          "text": "Beck wrote \"Progressivism\" on it to underscore his belief in what America is suffering from.",
+          "bias": "none"
+        },
+        {
+          "text": "When Beck asked what America is suffering from, someone shouted \"President Obama,\" though Beck, an outspoken critic of the president, said it's \"not that simple.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Beck rejected the notion that the Republican Party should expand its tent to include progressives.",
+          "bias": "none"
+        },
+        {
+          "text": "\"What is this?",
+          "bias": "none"
+        },
+        {
+          "text": "A circus?\" he said, drawing laughter.",
+          "bias": "none"
+        },
+        {
+          "text": "\"America is not a clown show.",
+          "bias": "none"
+        },
+        {
+          "text": "America is an idea that sets people free.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Opening up about his troubled past, Beck told the crowd, \"People need to understand that life is not fair.",
+          "bias": "none"
+        },
+        {
+          "text": "The bad guy sometimes wins.\"",
+          "bias": "none"
+        },
+        {
+          "text": "The speech capped three days of panel discussions and high-profile speakers, including numerous politicians mentioned as contenders for the 2012 Republican presidential nomination.",
+          "bias": "none"
+        },
+        {
+          "text": "But for a lot of the CPAC attendees, Beck was the reason they came, as he is seen as a leader in the new conservative movement.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The speech comes after a year in which Beck's growing popularity as a Fox News host coincided with the rise of the Tea Party Movement and populist rage directed at Washington.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Beck also launched the 9/12 Project, which sets forth nine values and 12 principles that he believes the country was founded upon.",
+          "bias": "none"
+        },
+        {
+          "text": "The project inspired a major march in Washington in September.",
+          "bias": "none"
+        },
+        {
+          "text": "\"This is how is America should be,\" said Cynthia Burgiss, 22, a student at the University of Dayton in Ohio who attended the 9/12 march in D.C. this year.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "People of every race, political affiliation, religion came together for different reasons.",
+          "bias": "none"
+        },
+        {
+          "text": "She was at CPAC to see Beck and called him a \"relatable ...",
+          "bias": "none"
+        },
+        {
+          "text": "everyday guy.\"",
+          "bias": "none"
+        },
+        {
+          "text": "\"None of this would have happened without Glenn,\" she said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "17a9d9cb-727d-4173-b829-ceded51002e5",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "source": "nyt",
+    "title": "Beck Wows the CPAC Crowd",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Beck Wows the CPAC Crowd\", \"bias\": \"none\"},\n    {\"text\": \"Glenn Beck, the hero of the political right and the closing speaker of a three-day conservative conference, ripped the roof off a Washington hotel Saturday with a sweeping denunciation of progressivism.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Progressivism, he told the Conservative Political Action Conference, is a cancer that must be cut out of the system.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"But he aimed his fire at Republicans as well as Democrats, and gave them little quarter, saying he did not know what the Republicans stood for.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cIt\\u2019s not enough just to not suck as much as the other side,\\u201d he said.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Noting that he was a recovering alcoholic himself, he said that the party had to admit that it had a problem, which he had not heard it do.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cHello, my name is the Republican Party and I have a problem!\\u201d he declared.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cI\\u2019m addicted to spending and big government,\\u201d he said, drawing cheers and applause from the thousands of people packed into the hotel ballroom.\", \"bias\": \"none\"},\n    {\"text\": \"But both parties are to blame, he said.\", \"bias\": \"none\"},\n    {\"text\": \"The Democrats tax and spend, while the Republicans just spend.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"People are losing a fundamental belief that things will get better, he said.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cIt is still morning in America,\\u201d he posited, \\u201cit just happens to be kind of a head-pounding, hung-over, vomiting-for-four-hours kind of morning in America.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"And it\\u2019s shaping up to be kind of a nasty day, but it\\u2019s still morning in America.\\u201d\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"When the audience finished laughing, he asked: \\u201cWhat made us sit there at the john making us vomit for four hours?\", \"bias\": \"none\"},\n    {\"text\": \"What are we suffering from?\", \"bias\": \"none\"},\n    {\"text\": \"Saying President Obama, he said, was \\u201ctoo simple an answer.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"The real problem, he said, is progressivism, scrawling the word with chalk on his signature blackboard.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cThis is the disease in America,\\u201d he said.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"He held the audience spellbound with riffs on his personal life laced through his political philosophy, strong on personal responsibility.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cWho can guarantee you happiness?\\u201c he asked.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cTiger Woods wasn\\u2019t happy.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"If you find financial success on the road to happiness, he said, conservatives believe \\u201cyou shouldn\\u2019t be demonized or penalized by it.\\u201d\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cI\\u2019m not going to pay for your mistakes and I don\\u2019t expect you to pay for my mistakes,\\u201d he said, to wild applause.\", \"bias\": \"none\"}\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Beck Wows the CPAC Crowd",
+          "bias": "none"
+        },
+        {
+          "text": "Glenn Beck, the hero of the political right and the closing speaker of a three-day conservative conference, ripped the roof off a Washington hotel Saturday with a sweeping denunciation of progressivism.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Progressivism, he told the Conservative Political Action Conference, is a cancer that must be cut out of the system.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "But he aimed his fire at Republicans as well as Democrats, and gave them little quarter, saying he did not know what the Republicans stood for.",
+          "bias": "none"
+        },
+        {
+          "text": "“It’s not enough just to not suck as much as the other side,” he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Noting that he was a recovering alcoholic himself, he said that the party had to admit that it had a problem, which he had not heard it do.",
+          "bias": "none"
+        },
+        {
+          "text": "“Hello, my name is the Republican Party and I have a problem!” he declared.",
+          "bias": "none"
+        },
+        {
+          "text": "“I’m addicted to spending and big government,” he said, drawing cheers and applause from the thousands of people packed into the hotel ballroom.",
+          "bias": "none"
+        },
+        {
+          "text": "But both parties are to blame, he said.",
+          "bias": "none"
+        },
+        {
+          "text": "The Democrats tax and spend, while the Republicans just spend.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "People are losing a fundamental belief that things will get better, he said.",
+          "bias": "none"
+        },
+        {
+          "text": "“It is still morning in America,” he posited, “it just happens to be kind of a head-pounding, hung-over, vomiting-for-four-hours kind of morning in America.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "And it’s shaping up to be kind of a nasty day, but it’s still morning in America.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "When the audience finished laughing, he asked: “What made us sit there at the john making us vomit for four hours?",
+          "bias": "none"
+        },
+        {
+          "text": "What are we suffering from?",
+          "bias": "none"
+        },
+        {
+          "text": "Saying President Obama, he said, was “too simple an answer.”",
+          "bias": "none"
+        },
+        {
+          "text": "The real problem, he said, is progressivism, scrawling the word with chalk on his signature blackboard.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“This is the disease in America,” he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "He held the audience spellbound with riffs on his personal life laced through his political philosophy, strong on personal responsibility.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“Who can guarantee you happiness?“ he asked.",
+          "bias": "none"
+        },
+        {
+          "text": "“Tiger Woods wasn’t happy.”",
+          "bias": "none"
+        },
+        {
+          "text": "If you find financial success on the road to happiness, he said, conservatives believe “you shouldn’t be demonized or penalized by it.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“I’m not going to pay for your mistakes and I don’t expect you to pay for my mistakes,” he said, to wild applause.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  },
+  {
+    "uuid": "f3d0ebba-4805-4def-b3ac-4359d5937556",
+    "triplet_uuid": "6f95dcb9-e960-45ac-8c0e-91b85724c909",
+    "source": "hpo",
+    "title": "Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent\", \"bias\": \"none\"},\n    {\"text\": \"Bombastic conservative talk show host Glenn Beck closed a three-day conservative conference on Saturday by demanding that Republicans get their own house in order before re-trying their hand at governance.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"In a winding speech that touched as much on his personal turmoil as his policies and politics, Beck had the packed auditorium at CPAC captivated from the start.\", \"bias\": \"none\"},\n    {\"text\": \"Using hand gestures, multiple impersonations and his infamous chalkboard, he took the usual swipes at Democrats.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\\"Progressivism,\\\" he declared, \\\"is eating the Constitution.\\\" Moreover, it \\\"was designed to eat the Constitution.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"But the nearly hour-long address was spent not bemoaning his ideological foes, but rather demanding purity among his likely allies.\", \"bias\": \"none\"},\n    {\"text\": \"If last year's CPAC keynote speech - delivered by radio host Rush Limbaugh - was defined by urging President Barack Obama to fail, Beck's stood out for his demand that conservatism succeed.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"Dick Cheney a couple days ago...\", \"bias\": \"none\"},\n    {\"text\": \"says it is going to be a good year for conservative ideas,\\\" he declared at one point, wiping the sweat from his brow.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"It is going to be a very good year.\", \"bias\": \"none\"},\n    {\"text\": \"But it is not enough just to not suck as much as the other side.\\\"\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"And who, exactly, sucked as much as the other side?\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Beck didn't really name names - save for a swipe at one Republican (presumably Sen.\", \"bias\": \"none\"},\n    {\"text\": \"John McCain) for admiring another Republican, Teddy Roosevelt -- the latter of whom Beck accused of launching the modern progressive movement.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"But the message was clear: supporting anything that closely resembled the Democratic agenda would no longer fly with the modern GOP.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"\\\"I have not heard people in the Republican Party admit yet that they have a problem,\\\" he said.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"I haven't seen the Come-To-Jesus moment from Republicans yet.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"\\\"One party will tax and spend,\\\" he added at another point.\", \"bias\": \"none\"},\n    {\"text\": \"'One party won't tax and will spend.\", \"bias\": \"none\"},\n    {\"text\": \"It is both of them together.\\\"\", \"bias\": \"none\"},\n    {\"text\": \"The plea was made all the more effective by the intertwining of Beck's own story of struggle and redemption.\", \"bias\": \"none\"},\n    {\"text\": \"Pointing to his time as a recovering alcoholic, the Fox News host urged the GOP to embark on a 12-step program of recovery.\", \"bias\": \"none\"},\n    {\"text\": \"\\\"Hello, my name is the Republican Party, and I got a problem.\", \"bias\": \"none\"},\n    {\"text\": \"I'm addicted to spending and big government,\\\" he declared, reading out the apology he wanted lawmakers to deliver.\", \"bias\": \"none\"},\n    {\"text\": \"Reflecting on his own lack of formal education, he railed against government handouts - extending the logic to argue against a right to health care.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"The crowd was enthralled, even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s.\", \"bias\": \"none\"},\n    {\"text\": \"But was the message what the conservative movement needed to hear?\", \"bias\": \"none\"},\n    {\"text\": \"Tradition dictates that political parties out of power do what they can to expand their coalition.\", \"bias\": \"none\"},\n    {\"text\": \"Elections, after all, are won when candidates broaden their appeal to the voters responsible for electing them.\", \"bias\": \"none\"},\n    {\"text\": \"For Beck and the surrounding CPAC crowd, however, ideological purity was the path to redemption and recovery.\", \"bias\": \"bias\", \"bias_type\": \"inf\"}\n  ],\n  \"article_bias\": \"liberal\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Glenn Beck CPAC 2010 Speech VIDEO: Republicans Don't Need A Big Tent",
+          "bias": "none"
+        },
+        {
+          "text": "Bombastic conservative talk show host Glenn Beck closed a three-day conservative conference on Saturday by demanding that Republicans get their own house in order before re-trying their hand at governance.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "In a winding speech that touched as much on his personal turmoil as his policies and politics, Beck had the packed auditorium at CPAC captivated from the start.",
+          "bias": "none"
+        },
+        {
+          "text": "Using hand gestures, multiple impersonations and his infamous chalkboard, he took the usual swipes at Democrats.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "\"Progressivism,\" he declared, \"is eating the Constitution.\" Moreover, it \"was designed to eat the Constitution.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "But the nearly hour-long address was spent not bemoaning his ideological foes, but rather demanding purity among his likely allies.",
+          "bias": "none"
+        },
+        {
+          "text": "If last year's CPAC keynote speech - delivered by radio host Rush Limbaugh - was defined by urging President Barack Obama to fail, Beck's stood out for his demand that conservatism succeed.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Dick Cheney a couple days ago...",
+          "bias": "none"
+        },
+        {
+          "text": "says it is going to be a good year for conservative ideas,\" he declared at one point, wiping the sweat from his brow.",
+          "bias": "none"
+        },
+        {
+          "text": "\"It is going to be a very good year.",
+          "bias": "none"
+        },
+        {
+          "text": "But it is not enough just to not suck as much as the other side.\"",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "And who, exactly, sucked as much as the other side?",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Beck didn't really name names - save for a swipe at one Republican (presumably Sen.",
+          "bias": "none"
+        },
+        {
+          "text": "John McCain) for admiring another Republican, Teddy Roosevelt -- the latter of whom Beck accused of launching the modern progressive movement.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "But the message was clear: supporting anything that closely resembled the Democratic agenda would no longer fly with the modern GOP.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "\"I have not heard people in the Republican Party admit yet that they have a problem,\" he said.",
+          "bias": "none"
+        },
+        {
+          "text": "\"I haven't seen the Come-To-Jesus moment from Republicans yet.\"",
+          "bias": "none"
+        },
+        {
+          "text": "\"One party will tax and spend,\" he added at another point.",
+          "bias": "none"
+        },
+        {
+          "text": "'One party won't tax and will spend.",
+          "bias": "none"
+        },
+        {
+          "text": "It is both of them together.\"",
+          "bias": "none"
+        },
+        {
+          "text": "The plea was made all the more effective by the intertwining of Beck's own story of struggle and redemption.",
+          "bias": "none"
+        },
+        {
+          "text": "Pointing to his time as a recovering alcoholic, the Fox News host urged the GOP to embark on a 12-step program of recovery.",
+          "bias": "none"
+        },
+        {
+          "text": "\"Hello, my name is the Republican Party, and I got a problem.",
+          "bias": "none"
+        },
+        {
+          "text": "I'm addicted to spending and big government,\" he declared, reading out the apology he wanted lawmakers to deliver.",
+          "bias": "none"
+        },
+        {
+          "text": "Reflecting on his own lack of formal education, he railed against government handouts - extending the logic to argue against a right to health care.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The crowd was enthralled, even as Beck took them down winding tales of Calvin Coolidge, the Statute of Liberty and the supposed great middle class explosion of the 1920s.",
+          "bias": "none"
+        },
+        {
+          "text": "But was the message what the conservative movement needed to hear?",
+          "bias": "none"
+        },
+        {
+          "text": "Tradition dictates that political parties out of power do what they can to expand their coalition.",
+          "bias": "none"
+        },
+        {
+          "text": "Elections, after all, are won when candidates broaden their appeal to the voters responsible for electing them.",
+          "bias": "none"
+        },
+        {
+          "text": "For Beck and the surrounding CPAC crowd, however, ideological purity was the path to redemption and recovery.",
+          "bias": "bias",
+          "bias_type": "inf"
+        }
+      ],
+      "article_bias": "liberal"
+    }
+  },
+  {
+    "uuid": "9495dca7-8ae6-48c3-adf9-eb2df4901f0e",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "source": "nyt",
+    "title": "Steele to Announce Decision on R.N.C. Run",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"The battle for control of the Republican National Committee will take a new turn on Monday when Michael Steele announces whether he plans to step down as party chairman or will disregard the onslaught of criticism about his oversight of the committee and seek a second term.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Steele is expected to disclose his intentions during a conference call with committee members on Monday evening.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Mr. Steele has lost the backing of many top supporters, but he has not yet said whether he will try to rebuild his frayed coalition and fight for the chance to lead the party into the 2012 election cycle.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Steele\\u2019s tenure has been one of the few blemishes this year for the Republican Party, which scored historic victories in the midterm elections.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"At least six top Republicans have already taken steps to run for party chairman and several members have withdrawn their support for Mr. Steele, leading many party leaders to conclude that Mr. Steele will not seek reelection.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But Mr. Steele has kept close counsel about his future, Republican officials said Sunday, and his plans were unknown even to several of his own advisers.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A spokesman for the R.N.C. did not respond to inquiries about the conference call, which Mr. Steele announced personally in a weekend e-mail message to fellow Republicans.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cDear Members, Please join me for a private conference call,\\u201d Mr. Steele wrote in a message to Republicans, which was provided to the New York Times by a committee member.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\u201cThank you and I look forward to talking to you Monday evening.\\u201d\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A coordinated effort to replace Mr. Steele has been underway for weeks, with several leading Republicans arguing that the committee needed to urgently improve its fund-raising practices and tighten its organizational structure to prepare for the presidential election.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"The political director of the committee resigned in protest last month and is among those vying for the job.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Mr. Steele, a former lieutenant governor of Maryland, was elected in January 2009 to lead Republicans at a bleak moment.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"He has argued that he deserves credit for building the party in all corners of the country and winning control of the House of Representatives last month.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The contenders for the position include: Reince Preibus, chairman of the Wisconsin Republican Party; Ann Wagner of Missouri, an ambassador to Luxembourg in the Bush administration; Maria Cino, a veteran Republican operative who has the support of former Vice President Dick Cheney; Saul Anuzis, former Republican chairman in Michigan; and Gentry Collins, who resigned last month as political director.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A former party chairman, Mike Duncan, also is considering a run.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The 168-member committee will elect a chairman during its meeting in January.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "The battle for control of the Republican National Committee will take a new turn on Monday when Michael Steele announces whether he plans to step down as party chairman or will disregard the onslaught of criticism about his oversight of the committee and seek a second term.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Steele is expected to disclose his intentions during a conference call with committee members on Monday evening.",
+          "bias": "none"
+        },
+        {
+          "text": "Mr. Steele has lost the backing of many top supporters, but he has not yet said whether he will try to rebuild his frayed coalition and fight for the chance to lead the party into the 2012 election cycle.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Steele’s tenure has been one of the few blemishes this year for the Republican Party, which scored historic victories in the midterm elections.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "At least six top Republicans have already taken steps to run for party chairman and several members have withdrawn their support for Mr. Steele, leading many party leaders to conclude that Mr. Steele will not seek reelection.",
+          "bias": "none"
+        },
+        {
+          "text": "But Mr. Steele has kept close counsel about his future, Republican officials said Sunday, and his plans were unknown even to several of his own advisers.",
+          "bias": "none"
+        },
+        {
+          "text": "A spokesman for the R.N.C. did not respond to inquiries about the conference call, which Mr. Steele announced personally in a weekend e-mail message to fellow Republicans.",
+          "bias": "none"
+        },
+        {
+          "text": "“Dear Members, Please join me for a private conference call,” Mr. Steele wrote in a message to Republicans, which was provided to the New York Times by a committee member.",
+          "bias": "none"
+        },
+        {
+          "text": "“Thank you and I look forward to talking to you Monday evening.”",
+          "bias": "none"
+        },
+        {
+          "text": "A coordinated effort to replace Mr. Steele has been underway for weeks, with several leading Republicans arguing that the committee needed to urgently improve its fund-raising practices and tighten its organizational structure to prepare for the presidential election.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "The political director of the committee resigned in protest last month and is among those vying for the job.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Steele, a former lieutenant governor of Maryland, was elected in January 2009 to lead Republicans at a bleak moment.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "He has argued that he deserves credit for building the party in all corners of the country and winning control of the House of Representatives last month.",
+          "bias": "none"
+        },
+        {
+          "text": "The contenders for the position include: Reince Preibus, chairman of the Wisconsin Republican Party; Ann Wagner of Missouri, an ambassador to Luxembourg in the Bush administration; Maria Cino, a veteran Republican operative who has the support of former Vice President Dick Cheney; Saul Anuzis, former Republican chairman in Michigan; and Gentry Collins, who resigned last month as political director.",
+          "bias": "none"
+        },
+        {
+          "text": "A former party chairman, Mike Duncan, also is considering a run.",
+          "bias": "none"
+        },
+        {
+          "text": "The 168-member committee will elect a chairman during its meeting in January.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "9913f8f7-a5eb-4c8b-b0e2-278ad440e4ca",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "source": "fox",
+    "title": "RNC Chairman Steele to Announce Intentions on a Second Term",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Republican National Committee Chairman Michael Steele will speak with RNC members Monday evening in which he is expected to announce a decision about whether to make another run for the party chairmanship.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"A handful of well-placed and influential RNC insiders tell Fox News they expect Steele to announce he is not running for re-election.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"But Steele has been unpredictable, especially over recent weeks, and some close to the GOP chairman say he wants to run for another term and is struggling to find enough support for a second term.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Fox News confirmed Steele sent an e-mail to committee members Saturday night with the subject line, \\\"conference call.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"In the note, he asked members to join him \\\"for a private conference call\\\" Monday evening.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Republicans picked up 63 seats in the House, narrowed the gap in the Senate and picked up 19 state legislative bodies in the November midtem election, but pressure has been mounting all year for Steele to step down from the position.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Critics have described the chairman as gaffe-prone and said he hasn't raised enough money.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"The criticism has resulted in an array of challenges or potential challenges for Steele's job from Wisconsin Republican Party Chairman Reince Priebus, former RNC Co-Chairwoman Ann Wagner, longtime Republican official Maria Cino, former Michigan Republican Party Chairman Saul Anuzis and former RNC Political Director Gentry Collins.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The fierce competition will end next month with the selection of a chairman for the 2012 election cycle.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Republican National Committee Chairman Michael Steele will speak with RNC members Monday evening in which he is expected to announce a decision about whether to make another run for the party chairmanship.",
+          "bias": "none"
+        },
+        {
+          "text": "A handful of well-placed and influential RNC insiders tell Fox News they expect Steele to announce he is not running for re-election.",
+          "bias": "none"
+        },
+        {
+          "text": "But Steele has been unpredictable, especially over recent weeks, and some close to the GOP chairman say he wants to run for another term and is struggling to find enough support for a second term.",
+          "bias": "none"
+        },
+        {
+          "text": "Fox News confirmed Steele sent an e-mail to committee members Saturday night with the subject line, \"conference call.\"",
+          "bias": "none"
+        },
+        {
+          "text": "In the note, he asked members to join him \"for a private conference call\" Monday evening.",
+          "bias": "none"
+        },
+        {
+          "text": "Republicans picked up 63 seats in the House, narrowed the gap in the Senate and picked up 19 state legislative bodies in the November midtem election, but pressure has been mounting all year for Steele to step down from the position.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Critics have described the chairman as gaffe-prone and said he hasn't raised enough money.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "The criticism has resulted in an array of challenges or potential challenges for Steele's job from Wisconsin Republican Party Chairman Reince Priebus, former RNC Co-Chairwoman Ann Wagner, longtime Republican official Maria Cino, former Michigan Republican Party Chairman Saul Anuzis and former RNC Political Director Gentry Collins.",
+          "bias": "none"
+        },
+        {
+          "text": "The fierce competition will end next month with the selection of a chairman for the 2012 election cycle.",
+          "bias": "bias",
+          "bias_type": "lex"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "a782d93c-cb4a-4096-873d-716791eedf2a",
+    "triplet_uuid": "74708dbf-5dfc-4c66-8419-d7dbc00e4a06",
+    "source": "hpo",
+    "title": "Michael Steele's End Could Be Near",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"RNC Chairman Michael Steele is expected by some to announce that he will not seek a second term as the head of the Republican National Committee, according to multiple reports.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Politico reported over the weekend that many of his supporters as well as other GOP operatives believe that a Steele run was looking increasingly doubtful, due in part to the fact that he \\\"has built no known reelection team or structure, making the prospect of a campaign unlikely in the face of competition that grows fiercer by the day.\\\"\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Meanwhile, multiple sources tell Fox News that they believe Steele will drop out of the race.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"And while many predict that Steele will call it quits after his current term, his increasing seclusion and detachment from other Republican advisers has made his forthcoming decision difficult to ascertain.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"At least one GOP insider who had direct contact with Steele told the Washington Post that the chairman would indeed be seeking another term atop the RNC.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Hotline On Call says the nature of the decision is a \\\"closely guarded secret\\\" and reports that \\\"even his top advisors, both inside and outside the committee, say they don't know which direction he will take.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Steele's gaffe-prone tenure at the helm of the RNC has aided the creation of a significant bloc of GOPers who are intent on seeing his departure next month.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"While some, such as black conservative group BOND Action, have directly announced their intentions to work toward insuring Steele's termination at the committee, other Republicans have simply lined up behind his growing list of challengers.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Maria Cino, a former Bush official who recently received key backing from former RNC Chairman Ed Gillespie and former Vice President Dick Cheney, became the latest official contender this weekend.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Wisconsin GOP Chairman Reince Preibus, recently resigned RNC political director Gentry Collins, former U.S. ambassador Ann Wagner and former Michigan GOP chairman Saul Anuzis also round out the list.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Politico also reports that former Senator Norm Coleman could enter the race if Steele decides not to run.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"neutral\"\n}\n```\n\nAlthough sentences 2 and 7 contain biases, the overall tone of the article remains neutral, as it primarily reports on facts and quotes from various sources without taking a clear stance or promoting a specific agenda. Sentence 2 has an informational bias, as it frames Steele's situation in a way that emphasizes the challenges he faces, while sentence 7 has a lexical bias due to the use of the term \"gaffe-prone,\" which has a slightly negative connotation. However, these biases are relatively subtle and do not significantly impact the overall neutrality of the article.",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "RNC Chairman Michael Steele is expected by some to announce that he will not seek a second term as the head of the Republican National Committee, according to multiple reports.",
+          "bias": "none"
+        },
+        {
+          "text": "Politico reported over the weekend that many of his supporters as well as other GOP operatives believe that a Steele run was looking increasingly doubtful, due in part to the fact that he \"has built no known reelection team or structure, making the prospect of a campaign unlikely in the face of competition that grows fiercer by the day.\"",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Meanwhile, multiple sources tell Fox News that they believe Steele will drop out of the race.",
+          "bias": "none"
+        },
+        {
+          "text": "And while many predict that Steele will call it quits after his current term, his increasing seclusion and detachment from other Republican advisers has made his forthcoming decision difficult to ascertain.",
+          "bias": "none"
+        },
+        {
+          "text": "At least one GOP insider who had direct contact with Steele told the Washington Post that the chairman would indeed be seeking another term atop the RNC.",
+          "bias": "none"
+        },
+        {
+          "text": "Hotline On Call says the nature of the decision is a \"closely guarded secret\" and reports that \"even his top advisors, both inside and outside the committee, say they don't know which direction he will take.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Steele's gaffe-prone tenure at the helm of the RNC has aided the creation of a significant bloc of GOPers who are intent on seeing his departure next month.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "While some, such as black conservative group BOND Action, have directly announced their intentions to work toward insuring Steele's termination at the committee, other Republicans have simply lined up behind his growing list of challengers.",
+          "bias": "none"
+        },
+        {
+          "text": "Maria Cino, a former Bush official who recently received key backing from former RNC Chairman Ed Gillespie and former Vice President Dick Cheney, became the latest official contender this weekend.",
+          "bias": "none"
+        },
+        {
+          "text": "Wisconsin GOP Chairman Reince Preibus, recently resigned RNC political director Gentry Collins, former U.S. ambassador Ann Wagner and former Michigan GOP chairman Saul Anuzis also round out the list.",
+          "bias": "none"
+        },
+        {
+          "text": "Politico also reports that former Senator Norm Coleman could enter the race if Steele decides not to run.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "neutral"
+    }
+  },
+  {
+    "uuid": "bf45994d-2159-4c28-9d63-ff12c5337bf5",
+    "triplet_uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "source": "nyt",
+    "title": "Richard Blumenthal's Words on Vietnam Service Differ From History",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\"text\": \"At a ceremony honoring veterans and senior citizens who sent presents to soldiers overseas, Attorney General Richard Blumenthal of Connecticut rose and spoke of an earlier time in his life.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cWe have learned something important since the days that I served in Vietnam,\\u201d Mr. Blumenthal said to the group gathered in Norwalk in March 2008.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cAnd you exemplify it.\", \"bias\": \"none\"},\n    {\"text\": \"Whatever we think about the war, whatever we call it \\u2014 Afghanistan or Iraq \\u2014 we owe our military men and women unconditional support.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"There was one problem: Mr. Blumenthal, a Democrat now running for the United States Senate, never served in Vietnam.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"He obtained at least five military deferments from 1965 to 1970 and took repeated steps that enabled him to avoid going to war, according to records.\", \"bias\": \"none\"},\n    {\"text\": \"The deferments allowed Mr. Blumenthal to complete his studies at Harvard; pursue a graduate fellowship in England; serve as a special assistant to The Washington Post\\u2019s publisher, Katharine Graham; and ultimately take a job in the Nixon White House.\", \"bias\": \"none\"},\n    {\"text\": \"In 1970, with his last deferment in jeopardy, he landed a coveted spot in the Marine Reserve, which virtually guaranteed that he would not be sent to Vietnam.\", \"bias\": \"none\"},\n    {\"text\": \"He joined a unit in Washington that conducted drills and other exercises and focused on local projects, like fixing a campground and organizing a Toys for Tots drive.\", \"bias\": \"none\"},\n    {\"text\": \"Many politicians have faced questions over their decisions during the Vietnam War, and Mr. Blumenthal, who is seeking the seat being vacated by Senator Christopher J.\", \"bias\": \"none\"},\n    {\"text\": \"Dodd, is not alone in staying out of the war.\", \"bias\": \"none\"},\n    {\"text\": \"But what is striking about Mr. Blumenthal\\u2019s record is the contrast between the many steps he took that allowed him to avoid Vietnam, and the misleading way he often speaks about that period of his life now, especially when he is speaking at veterans\\u2019 ceremonies or other patriotic events.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"Sometimes his remarks have been plainly untrue, as in his speech to the group in Norwalk.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"At other times, he has used more ambiguous language, but the impression left on audiences can be similar.\", \"bias\": \"none\"},\n    {\"text\": \"In an interview on Monday, the attorney general said that he had misspoken about his service during the Norwalk event and might have misspoken on other occasions.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cMy intention has always been to be completely clear and accurate and straightforward, out of respect to the veterans who served in Vietnam,\\u201d he said.\", \"bias\": \"none\"},\n    {\"text\": \"But an examination of his remarks at the ceremonies shows that he does not volunteer that his service never took him overseas.\", \"bias\": \"bias\", \"bias_type\": \"inf\"},\n    {\"text\": \"And he describes the hostile reaction directed at veterans coming back from Vietnam, intimating that he was among them.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"In 2003, he addressed a rally in Bridgeport, where about 100 military families gathered to express support for American troops overseas.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cWhen we returned, we saw nothing like this,\\u201d Mr. Blumenthal said.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cLet us do better by this generation of men and women.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"At a 2008 ceremony in front of the Veterans War Memorial Building in Shelton, he praised the audience for paying tribute to troops fighting abroad, noting that America had not always done so.\", \"bias\": \"none\"},\n    {\"text\": \"\\u201cI served during the Vietnam era,\\u201d he said.\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"\\u201cI remember the taunts, the insults, sometimes even physical abuse.\\u201d\", \"bias\": \"bias\", \"bias_type\": \"lex\"},\n    {\"text\": \"Mr. Blumenthal, 64, is known as a brilliant lawyer who likes to argue cases in court and uses language with power and precision.\", \"bias\": \"none\"},\n    {\"text\": \"He is also savvy about the news media and attentive to how he is portrayed in the press.\", \"bias\": \"none\"},\n    {\"text\": \"But the way he speaks about his military service has led to confusion and frequent mischaracterizations of his biography in his home state newspapers.\", \"bias\": \"none\"},\n    {\"text\": \"In at least eight newspaper articles published in Connecticut from 2003 to 2009, he is described as having served in Vietnam.\", \"bias\": \"none\"},\n    {\"text\": \"The New Haven Register on July 20, 2006, described him as \\u201ca veteran of the Vietnam War,\\u201d and on April 6, 2007, said that the attorney general had \\u201cserved in the Marines in Vietnam.\\u201d On May 26, 2009, The Connecticut Post, a Bridgeport newspaper that is the state\\u2019s third-largest daily, described Mr. Blumenthal as \\u201ca Vietnam veteran.\\u201d The Shelton Weekly reported on May 23, 2008, that Mr. Blumenthal \\u201cwas met with applause when he spoke about his experience as a Marine sergeant in Vietnam.\\u201d\", \"bias\": \"none\"},\n    {\"text\": \"And the idea that he served in Vietnam has become such an accepted part of his public biography that when a national outlet, Slate magazine, produced a profile of Mr. Blumenthal in 2000, it said he had \\u201cenlisted in the Marines rather than duck the Vietnam draft.\\u201d\", \"bias\": \"none\"}\n  ],\n  \"article_bias\": \"liberal\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "At a ceremony honoring veterans and senior citizens who sent presents to soldiers overseas, Attorney General Richard Blumenthal of Connecticut rose and spoke of an earlier time in his life.",
+          "bias": "none"
+        },
+        {
+          "text": "“We have learned something important since the days that I served in Vietnam,” Mr. Blumenthal said to the group gathered in Norwalk in March 2008.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“And you exemplify it.",
+          "bias": "none"
+        },
+        {
+          "text": "Whatever we think about the war, whatever we call it — Afghanistan or Iraq — we owe our military men and women unconditional support.”",
+          "bias": "none"
+        },
+        {
+          "text": "There was one problem: Mr. Blumenthal, a Democrat now running for the United States Senate, never served in Vietnam.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "He obtained at least five military deferments from 1965 to 1970 and took repeated steps that enabled him to avoid going to war, according to records.",
+          "bias": "none"
+        },
+        {
+          "text": "The deferments allowed Mr. Blumenthal to complete his studies at Harvard; pursue a graduate fellowship in England; serve as a special assistant to The Washington Post’s publisher, Katharine Graham; and ultimately take a job in the Nixon White House.",
+          "bias": "none"
+        },
+        {
+          "text": "In 1970, with his last deferment in jeopardy, he landed a coveted spot in the Marine Reserve, which virtually guaranteed that he would not be sent to Vietnam.",
+          "bias": "none"
+        },
+        {
+          "text": "He joined a unit in Washington that conducted drills and other exercises and focused on local projects, like fixing a campground and organizing a Toys for Tots drive.",
+          "bias": "none"
+        },
+        {
+          "text": "Many politicians have faced questions over their decisions during the Vietnam War, and Mr. Blumenthal, who is seeking the seat being vacated by Senator Christopher J.",
+          "bias": "none"
+        },
+        {
+          "text": "Dodd, is not alone in staying out of the war.",
+          "bias": "none"
+        },
+        {
+          "text": "But what is striking about Mr. Blumenthal’s record is the contrast between the many steps he took that allowed him to avoid Vietnam, and the misleading way he often speaks about that period of his life now, especially when he is speaking at veterans’ ceremonies or other patriotic events.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Sometimes his remarks have been plainly untrue, as in his speech to the group in Norwalk.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "At other times, he has used more ambiguous language, but the impression left on audiences can be similar.",
+          "bias": "none"
+        },
+        {
+          "text": "In an interview on Monday, the attorney general said that he had misspoken about his service during the Norwalk event and might have misspoken on other occasions.",
+          "bias": "none"
+        },
+        {
+          "text": "“My intention has always been to be completely clear and accurate and straightforward, out of respect to the veterans who served in Vietnam,” he said.",
+          "bias": "none"
+        },
+        {
+          "text": "But an examination of his remarks at the ceremonies shows that he does not volunteer that his service never took him overseas.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "And he describes the hostile reaction directed at veterans coming back from Vietnam, intimating that he was among them.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "In 2003, he addressed a rally in Bridgeport, where about 100 military families gathered to express support for American troops overseas.",
+          "bias": "none"
+        },
+        {
+          "text": "“When we returned, we saw nothing like this,” Mr. Blumenthal said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“Let us do better by this generation of men and women.”",
+          "bias": "none"
+        },
+        {
+          "text": "At a 2008 ceremony in front of the Veterans War Memorial Building in Shelton, he praised the audience for paying tribute to troops fighting abroad, noting that America had not always done so.",
+          "bias": "none"
+        },
+        {
+          "text": "“I served during the Vietnam era,” he said.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "“I remember the taunts, the insults, sometimes even physical abuse.”",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Mr. Blumenthal, 64, is known as a brilliant lawyer who likes to argue cases in court and uses language with power and precision.",
+          "bias": "none"
+        },
+        {
+          "text": "He is also savvy about the news media and attentive to how he is portrayed in the press.",
+          "bias": "none"
+        },
+        {
+          "text": "But the way he speaks about his military service has led to confusion and frequent mischaracterizations of his biography in his home state newspapers.",
+          "bias": "none"
+        },
+        {
+          "text": "In at least eight newspaper articles published in Connecticut from 2003 to 2009, he is described as having served in Vietnam.",
+          "bias": "none"
+        },
+        {
+          "text": "The New Haven Register on July 20, 2006, described him as “a veteran of the Vietnam War,” and on April 6, 2007, said that the attorney general had “served in the Marines in Vietnam.” On May 26, 2009, The Connecticut Post, a Bridgeport newspaper that is the state’s third-largest daily, described Mr. Blumenthal as “a Vietnam veteran.” The Shelton Weekly reported on May 23, 2008, that Mr. Blumenthal “was met with applause when he spoke about his experience as a Marine sergeant in Vietnam.”",
+          "bias": "none"
+        },
+        {
+          "text": "And the idea that he served in Vietnam has become such an accepted part of his public biography that when a national outlet, Slate magazine, produced a profile of Mr. Blumenthal in 2000, it said he had “enlisted in the Marines rather than duck the Vietnam draft.”",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "liberal"
+    }
+  },
+  {
+    "uuid": "8a841e62-6284-49a9-a2ed-931b603750f1",
+    "triplet_uuid": "85475456-f38e-4c30-895d-ca2c819c6af1",
+    "source": "fox",
+    "title": "While Blumenthal Retains Washington Support, Republicans Smell Opening in CT",
+    "model_output_raw": "```json\n{\n  \"sentences\": [\n    {\n      \"text\": \"Democratic Attorney General Richard Blumenthal, once thought to be a shoo-in for the seat being vacated by Sen. Chris Dodd, D-CT, finds himself on the political ropes after a newspaper exposed a past incorrect statement regarding his service in Vietnam, and Republicans smell an opening.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"inf\"\n    },\n    {\n      \"text\": \"Sen. John Cornyn, R-TX, who heads the GOP campaign committee, said Tuesday, \\\"I think it's a blockbuster revelation,\\\" and predicted, \\\"I think it's definitely going to make that race more competitive.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Blumenthal's campaign disputed a report in the New York Times as an \\\"outrageous distortion\\\" of his service in the Marines - six months on Paris Island and six years in the reserves, according to his campaign.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The A.G., according to the Times, said he had misspoken at a 2008 event in Norfolk in which he said he had served in Vietnam.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"At that March 2 event, which can be found here on You Tube, Blumenthal, advocating for troops returning from war, clearly says, \\\"We have learned something very important since the days that I served in Vietnam... whatever we think about the war, whatever we call it 'Afghanistan or Iraq, we owe our military men and women unconditional support.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Cornyn's Democratic campaign counterpart, Sen. Bob Menendez, D-NJ, Tuesday offered a critical vote of confidence in the attorney general, saying his lifetime of support for veterans is what really matters.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"\\\"I think he's corrected the record in the past. I think his actions standing up for veterans for a long time speaks volumes,\\\" Menendez said, \\\"I'm sure he will continue to stay in the race...and we'll continue to support him.\\\"\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"Dodd, who faced an onslaught of criticism for his involvement with now-defunct Countrywide mortgage broker, among other problems, quickly scuttled his re-election plans in order to make way for the exceedingly popular Blumenthal, when it was clear in polls that Dodd was not likely to win his race.\",\n      \"bias\": \"bias\",\n      \"bias_type\": \"lex\"\n    },\n    {\n      \"text\": \"Blumenthal will face the winner of the GOP primary on August 10 - either former Cong. Rob Simmons, himself a Vietnam vet, or former WWE wrestling executive Linda McMahon.\",\n      \"bias\": \"none\"\n    },\n    {\n      \"text\": \"The attorney general is scheduled to appear at a news conference later today with veterans at the Veterans of Foreign Wars post in West Hartford.\",\n      \"bias\": \"none\"\n    }\n  ],\n  \"article_bias\": \"conservative\"\n}\n```",
+    "model_output_parsed": {
+      "sentences": [
+        {
+          "text": "Democratic Attorney General Richard Blumenthal, once thought to be a shoo-in for the seat being vacated by Sen. Chris Dodd, D-CT, finds himself on the political ropes after a newspaper exposed a past incorrect statement regarding his service in Vietnam, and Republicans smell an opening.",
+          "bias": "bias",
+          "bias_type": "inf"
+        },
+        {
+          "text": "Sen. John Cornyn, R-TX, who heads the GOP campaign committee, said Tuesday, \"I think it's a blockbuster revelation,\" and predicted, \"I think it's definitely going to make that race more competitive.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Blumenthal's campaign disputed a report in the New York Times as an \"outrageous distortion\" of his service in the Marines - six months on Paris Island and six years in the reserves, according to his campaign.",
+          "bias": "none"
+        },
+        {
+          "text": "The A.G., according to the Times, said he had misspoken at a 2008 event in Norfolk in which he said he had served in Vietnam.",
+          "bias": "none"
+        },
+        {
+          "text": "At that March 2 event, which can be found here on You Tube, Blumenthal, advocating for troops returning from war, clearly says, \"We have learned something very important since the days that I served in Vietnam... whatever we think about the war, whatever we call it 'Afghanistan or Iraq, we owe our military men and women unconditional support.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Cornyn's Democratic campaign counterpart, Sen. Bob Menendez, D-NJ, Tuesday offered a critical vote of confidence in the attorney general, saying his lifetime of support for veterans is what really matters.",
+          "bias": "none"
+        },
+        {
+          "text": "\"I think he's corrected the record in the past. I think his actions standing up for veterans for a long time speaks volumes,\" Menendez said, \"I'm sure he will continue to stay in the race...and we'll continue to support him.\"",
+          "bias": "none"
+        },
+        {
+          "text": "Dodd, who faced an onslaught of criticism for his involvement with now-defunct Countrywide mortgage broker, among other problems, quickly scuttled his re-election plans in order to make way for the exceedingly popular Blumenthal, when it was clear in polls that Dodd was not likely to win his race.",
+          "bias": "bias",
+          "bias_type": "lex"
+        },
+        {
+          "text": "Blumenthal will face the winner of the GOP primary on August 10 - either former Cong. Rob Simmons, himself a Vietnam vet, or former WWE wrestling executive Linda McMahon.",
+          "bias": "none"
+        },
+        {
+          "text": "The attorney general is scheduled to appear at a news conference later today with veterans at the Veterans of Foreign Wars post in West Hartford.",
+          "bias": "none"
+        }
+      ],
+      "article_bias": "conservative"
+    }
+  }
+]
